@@ -1,0 +1,128 @@
+ChinaTextbook source tree (compact overview)
+Generated: 2026-09-06
+
+Scope
+- Source repository: https://github.com/andylee1890/ChinaTextbook
+- Local source: F:\data\big-projects\ChinaTextbook
+- Index directory: `ChinaTextbook-index/` inside this source repository.
+- The index is committed and synchronized together with `ChinaTextbook`; it
+  is not a separate repository or an independent copy of the PDF resources.
+- PDF files: 1,905
+- PDF volume: about 31.93 GB
+- Directories: 737
+- Logical books after grouping split parts: 2,061
+- Split logical books: 182
+- First-page posters generated: 2,060
+- Poster path layout mirrors the logical PDF layout beneath
+  `ChinaTextbook-index/posters/`, replacing only `.pdf` with `.png`.
+- The index is hierarchical: `ChinaTextbook-index/index.json` contains only
+  top-level directory nodes. Nested indexes are stored beside their matching
+  posters under `ChinaTextbook-index/posters/`, so a source directory such as
+  `小学/数学/人教版` maps to
+  `ChinaTextbook-index/posters/小学/数学/人教版/index.json`. A directory index
+  contains child-directory references and only the books directly inside that
+  directory. Pages can therefore load indexes lazily as users expand the tree.
+- Leaf book records expose `stage`, `subject`, `edition`, `grade`, and the full
+  `directoryParts` array alongside each book's source path.
+- One source PDF has a damaged XRef/pages structure and needs repair before
+  its poster can be extracted; it remains listed in `index.json`.
+- This file intentionally stops at the subject/version level. Individual PDF
+  names are represented by the generated hierarchical JSON indexes, not copied
+  here.
+
+Important file layout
+- A book may be stored as one PDF: `book.pdf`
+- Large books may be split into sibling parts: `book.pdf.1`, `book.pdf.2`, ...
+- Split parts belong to one logical book and must be grouped into one index
+  entry, one download item, and one poster.
+- The poster normally uses the first page of the logical book. Split parts do
+  not get separate posters.
+- The original project provides a PDF merge tool for reassembling split books:
+  https://github.com/TapXWorld/ChinaTextbook-tools/releases
+- The index must retain the ordered part list and explain that users should
+  merge the parts with the original tool before reading the book.
+- The source repository also contains one `.djvu`, one `.md`, one `.exe`, and
+  other non-PDF files; these need an explicit policy before indexing.
+
+ChinaTextbook/
+|-- 初中/
+|   |-- 人文地理
+|   |-- 体育与健康
+|   |-- 俄语
+|   |-- 化学
+|   |-- 历史
+|   |-- 地理
+|   |-- 地理图册
+|   |-- 数学
+|   |-- 日语
+|   |-- 物理
+|   |-- 生物学
+|   |-- 科学
+|   |-- 美术
+|   |-- 艺术
+|   |-- 英语
+|   |-- 语文
+|   |-- 道德与法治
+|   `-- 音乐
+|-- 初中（五•四学制）/
+|   |-- 化学
+|   |-- 地理
+|   |-- 数学
+|   |-- 物理
+|   |-- 生物学
+|   |-- 美术
+|   |-- 英语
+|   `-- 音乐
+|-- 大学/
+|   |-- 概率论
+|   |-- 离散数学
+|   |-- 线性代数
+|   `-- 高等数学
+|-- 学数学最重要的刷习题在这里/
+|   `-- 初中练习题_带答案
+|-- 小学/
+|   |-- 体育与健康
+|   |-- 数学
+|   |-- 科学
+|   |-- 美术
+|   |-- 艺术
+|   |-- 英语
+|   |-- 语文
+|   |-- 语文·书法练习指导
+|   |-- 道德与法治
+|   `-- 音乐
+|-- 小学（五•四学制）/
+|   |-- 数学
+|   |-- 科学
+|   |-- 美术
+|   |-- 英语
+|   |-- 语文·书法练习指导
+|   `-- 音乐
+`-- 高中/
+    |-- 体育与健康
+    |-- 俄语
+    |-- 信息技术
+    |-- 化学
+    |-- 历史
+    |-- 地理
+    |-- 地理图册
+    |-- 思想政治
+    |-- 数学
+    |-- 日语
+    |-- 物理
+    |-- 生物学
+    |-- 美术
+    |-- 艺术
+    |-- 英语
+    |-- 语文
+    |-- 通用技术
+    `-- 音乐
+
+Initial distribution
+- 小学: 899 PDFs, about 13.56 GB
+- 初中: 439 PDFs, about 7.44 GB
+- 高中: 413 PDFs, about 6.54 GB
+- 初中（五•四学制）: 60 PDFs, about 0.88 GB
+- 小学（五•四学制）: 62 PDFs, about 1.07 GB
+- 大学: 13 PDFs, about 0.23 GB
+- 习题资料: 19 PDFs, about 0.03 GB
