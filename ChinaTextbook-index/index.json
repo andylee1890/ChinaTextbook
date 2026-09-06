@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "",
+  "name": "ChinaTextbook",
+  "indexPath": "ChinaTextbook-index/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/index.json",
+  "bookCount": 2061,
+  "splitBookCount": 182,
+  "posterCount": 2060,
+  "childCount": 7,
+  "children": [
+    {
+      "path": "初中",
+      "name": "初中",
+      "indexPath": "ChinaTextbook-index/posters/初中/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/index.json",
+      "bookCount": 468,
+      "splitBookCount": 53,
+      "posterCount": 467,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）",
+      "name": "初中（五•四学制）",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/index.json",
+      "bookCount": 65,
+      "splitBookCount": 5,
+      "posterCount": 65,
+      "type": "directory"
+    },
+    {
+      "path": "大学",
+      "name": "大学",
+      "indexPath": "ChinaTextbook-index/posters/大学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/index.json",
+      "bookCount": 15,
+      "splitBookCount": 2,
+      "posterCount": 15,
+      "type": "directory"
+    },
+    {
+      "path": "学数学最重要的刷习题在这里",
+      "name": "学数学最重要的刷习题在这里",
+      "indexPath": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/index.json",
+      "bookCount": 19,
+      "splitBookCount": 0,
+      "posterCount": 19,
+      "type": "directory"
+    },
+    {
+      "path": "小学",
+      "name": "小学",
+      "indexPath": "ChinaTextbook-index/posters/小学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/index.json",
+      "bookCount": 952,
+      "splitBookCount": 53,
+      "posterCount": 952,
+      "type": "directory"
+    },
+    {
+      "path": "小学（五•四学制）",
+      "name": "小学（五•四学制）",
+      "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/index.json",
+      "bookCount": 62,
+      "splitBookCount": 2,
+      "posterCount": 62,
+      "type": "directory"
+    },
+    {
+      "path": "高中",
+      "name": "高中",
+      "indexPath": "ChinaTextbook-index/posters/高中/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/index.json",
+      "bookCount": 480,
+      "splitBookCount": 67,
+      "posterCount": 480,
+      "type": "directory"
+    }
+  ],
+  "books": [],
+  "posterFailures": [
+    {
+      "bookId": "book-8841da4bdac3",
+      "error": "Command '['C:\\\\Users\\\\Administrator\\\\.cache\\\\codex-runtimes\\\\codex-primary-runtime\\\\dependencies\\\\native\\\\poppler\\\\Library\\\\bin\\\\pdftoppm.EXE', '-f', '1', '-l', '1', '-singlefile', '-png', '-scale-to', '1400', 'F:\\\\data\\\\big-projects\\\\ChinaTextbook\\\\初中\\\\音乐\\\\沪教版-上海教育出版社\\\\九年级\\\\义务教育教科书·音乐九年级下册.pdf', 'F:\\\\dev_env\\\\temp\\\\china-textbook-book-8841da4bdac3-d3mqku2x\\\\page']' returned non-zero exit status 99.; Syntax Error: Invalid XRef entry 0\r\nSyntax Error: Missing 'endstream' or incorrect stream length\r\nInternal Error: xref num 4150 not found but needed, try to reconstruct\r\nSyntax Error: Invalid XRef entry 0\r\nSyntax Error: Missing 'endstream' or incorrect stream length\r\nSyntax Error: Top-level pages object is wrong type (null)\r\nSyntax Error: Top-level pages object is wrong type (null)\r\nWrong page range given: the first page (1) can not be after the last page (0)."
+    }
+  ]
+}

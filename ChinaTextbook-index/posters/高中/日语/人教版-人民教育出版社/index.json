@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/日语/人教版-人民教育出版社",
+  "name": "人教版-人民教育出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/日语/人教版-人民教育出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 5,
+  "splitBookCount": 0,
+  "posterCount": 5,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-702ee0c2e258",
+      "title": "普通高中教科书·日语必修 第一册",
+      "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第一册.pdf",
+      "directoryParts": [
+        "高中",
+        "日语",
+        "人教版-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "日语",
+      "edition": "人教版-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第一册.pdf",
+          "name": "普通高中教科书·日语必修 第一册.pdf",
+          "number": null,
+          "size": 6407786,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-3ac915e2f374",
+      "title": "普通高中教科书·日语必修 第三册",
+      "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第三册.pdf",
+      "directoryParts": [
+        "高中",
+        "日语",
+        "人教版-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "日语",
+      "edition": "人教版-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第三册.pdf",
+          "name": "普通高中教科书·日语必修 第三册.pdf",
+          "number": null,
+          "size": 5038157,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第三册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-3542dab50559",
+      "title": "普通高中教科书·日语必修 第二册",
+      "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第二册.pdf",
+      "directoryParts": [
+        "高中",
+        "日语",
+        "人教版-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "日语",
+      "edition": "人教版-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第二册.pdf",
+          "name": "普通高中教科书·日语必修 第二册.pdf",
+          "number": null,
+          "size": 5603612,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/日语/人教版-人民教育出版社/普通高中教科书·日语必修 第二册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-f646ebf814fe",
+      "title": "普通高中教科书·日语选择性必修 第一册",
+      "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语选择性必修 第一册.pdf",
+      "directoryParts": [
+        "高中",
+        "日语",
+        "人教版-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "日语",
+      "edition": "人教版-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语选择性必修 第一册.pdf",
+          "name": "普通高中教科书·日语选择性必修 第一册.pdf",
+          "number": null,
+          "size": 11747545,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/日语/人教版-人民教育出版社/普通高中教科书·日语选择性必修 第一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-cf15faf2d9d2",
+      "title": "普通高中教科书·日语选择性必修 第二册",
+      "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语选择性必修 第二册.pdf",
+      "directoryParts": [
+        "高中",
+        "日语",
+        "人教版-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "日语",
+      "edition": "人教版-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/日语/人教版-人民教育出版社/普通高中教科书·日语选择性必修 第二册.pdf",
+          "name": "普通高中教科书·日语选择性必修 第二册.pdf",
+          "number": null,
+          "size": 8641939,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/日语/人教版-人民教育出版社/普通高中教科书·日语选择性必修 第二册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%97%A5%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%97%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "width": 1400,
+        "height": 994
+      }
+    }
+  ]
+}

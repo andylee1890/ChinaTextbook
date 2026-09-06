@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "初中/生物学/北师大版-北京师范大学出版社/八年级",
+  "name": "八年级",
+  "indexPath": "ChinaTextbook-index/posters/初中/生物学/北师大版-北京师范大学出版社/八年级/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/index.json",
+  "bookCount": 2,
+  "splitBookCount": 2,
+  "posterCount": 2,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-bf8c3b6b3317",
+      "title": "义务教育教科书·生物学八年级上册",
+      "path": "初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级上册.pdf",
+      "directoryParts": [
+        "初中",
+        "生物学",
+        "北师大版-北京师范大学出版社",
+        "八年级"
+      ],
+      "stage": "初中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": "八年级",
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级上册.pdf_merge_folder/义务教育教科书·生物学八年级上册.pdf.1",
+          "name": "义务教育教科书·生物学八年级上册.pdf.1",
+          "number": 1,
+          "size": 47185920,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1"
+        },
+        {
+          "path": "初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级上册.pdf_merge_folder/义务教育教科书·生物学八年级上册.pdf.2",
+          "name": "义务教育教科书·生物学八年级上册.pdf.2",
+          "number": 2,
+          "size": 1647367,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 992,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-014912940649",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级下册.pdf",
+      "directoryParts": [
+        "初中",
+        "生物学",
+        "北师大版-北京师范大学出版社",
+        "八年级"
+      ],
+      "stage": "初中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": "八年级",
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级下册.pdf_merge_folder/义务教育教科书·生物学八年级下册.pdf.1",
+          "name": "义务教育教科书·生物学八年级下册.pdf.1",
+          "number": 1,
+          "size": 47185920,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.1"
+        },
+        {
+          "path": "初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级下册.pdf_merge_folder/义务教育教科书·生物学八年级下册.pdf.2",
+          "name": "义务教育教科书·生物学八年级下册.pdf.2",
+          "number": 2,
+          "size": 7235736,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf_merge_folder/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/初中/生物学/北师大版-北京师范大学出版社/八年级/义务教育教科书·生物学八年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 994,
+        "height": 1400
+      }
+    }
+  ]
+}

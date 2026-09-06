@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/语文/统编版",
+  "name": "统编版",
+  "indexPath": "ChinaTextbook-index/posters/小学/语文/统编版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-2e2d61af931f",
+      "title": "义务教育教科书·语文一年级上册",
+      "path": "小学/语文/统编版/义务教育教科书·语文一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文一年级上册.pdf",
+          "name": "义务教育教科书·语文一年级上册.pdf",
+          "number": null,
+          "size": 10926278,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1000
+      }
+    },
+    {
+      "id": "book-426ec08daa44",
+      "title": "义务教育教科书·语文一年级下册",
+      "path": "小学/语文/统编版/义务教育教科书·语文一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文一年级下册.pdf",
+          "name": "义务教育教科书·语文一年级下册.pdf",
+          "number": null,
+          "size": 12372511,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 999
+      }
+    },
+    {
+      "id": "book-5d27abcd3ffb",
+      "title": "义务教育教科书·语文三年级上册",
+      "path": "小学/语文/统编版/义务教育教科书·语文三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文三年级上册.pdf",
+          "name": "义务教育教科书·语文三年级上册.pdf",
+          "number": null,
+          "size": 13264541,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 998
+      }
+    },
+    {
+      "id": "book-458e75edb582",
+      "title": "义务教育教科书·语文三年级下册",
+      "path": "小学/语文/统编版/义务教育教科书·语文三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文三年级下册.pdf",
+          "name": "义务教育教科书·语文三年级下册.pdf",
+          "number": null,
+          "size": 13725984,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1000
+      }
+    },
+    {
+      "id": "book-b49d9a651ef5",
+      "title": "义务教育教科书·语文二年级上册",
+      "path": "小学/语文/统编版/义务教育教科书·语文二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文二年级上册.pdf",
+          "name": "义务教育教科书·语文二年级上册.pdf",
+          "number": null,
+          "size": 14038295,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1000
+      }
+    },
+    {
+      "id": "book-7d96ca7e7df6",
+      "title": "义务教育教科书·语文二年级下册",
+      "path": "小学/语文/统编版/义务教育教科书·语文二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文二年级下册.pdf",
+          "name": "义务教育教科书·语文二年级下册.pdf",
+          "number": null,
+          "size": 13606986,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1000
+      }
+    },
+    {
+      "id": "book-51efe20d8681",
+      "title": "义务教育教科书·语文五年级上册",
+      "path": "小学/语文/统编版/义务教育教科书·语文五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文五年级上册.pdf",
+          "name": "义务教育教科书·语文五年级上册.pdf",
+          "number": null,
+          "size": 9713159,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1000
+      }
+    },
+    {
+      "id": "book-b8606d9acd41",
+      "title": "义务教育教科书·语文五年级下册",
+      "path": "小学/语文/统编版/义务教育教科书·语文五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文五年级下册.pdf",
+          "name": "义务教育教科书·语文五年级下册.pdf",
+          "number": null,
+          "size": 16735209,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 998
+      }
+    },
+    {
+      "id": "book-377c0ee418fd",
+      "title": "义务教育教科书·语文六年级上册",
+      "path": "小学/语文/统编版/义务教育教科书·语文六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文六年级上册.pdf",
+          "name": "义务教育教科书·语文六年级上册.pdf",
+          "number": null,
+          "size": 17014217,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 999
+      }
+    },
+    {
+      "id": "book-5bda6419f810",
+      "title": "义务教育教科书·语文六年级下册",
+      "path": "小学/语文/统编版/义务教育教科书·语文六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文六年级下册.pdf",
+          "name": "义务教育教科书·语文六年级下册.pdf",
+          "number": null,
+          "size": 12860255,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1000
+      }
+    },
+    {
+      "id": "book-a8055b47fedb",
+      "title": "义务教育教科书·语文四年级上册",
+      "path": "小学/语文/统编版/义务教育教科书·语文四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文四年级上册.pdf",
+          "name": "义务教育教科书·语文四年级上册.pdf",
+          "number": null,
+          "size": 16760155,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 999
+      }
+    },
+    {
+      "id": "book-39fd053d4933",
+      "title": "义务教育教科书·语文四年级下册",
+      "path": "小学/语文/统编版/义务教育教科书·语文四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "语文",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文/统编版/义务教育教科书·语文四年级下册.pdf",
+          "name": "义务教育教科书·语文四年级下册.pdf",
+          "number": null,
+          "size": 12055004,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文/统编版/义务教育教科书·语文四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%AF%AD%E6%96%87%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 998
+      }
+    }
+  ]
+}

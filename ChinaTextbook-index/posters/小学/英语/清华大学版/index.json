@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/英语/清华大学版",
+  "name": "清华大学版",
+  "indexPath": "ChinaTextbook-index/posters/小学/英语/清华大学版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-2edb51a7fab1",
+      "title": "义务教育教科书·英语（一年级起点）一年级上册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）一年级上册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）一年级上册.pdf",
+          "number": null,
+          "size": 9922584,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 996
+      }
+    },
+    {
+      "id": "book-4183bb5198cd",
+      "title": "义务教育教科书·英语（一年级起点）一年级下册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）一年级下册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）一年级下册.pdf",
+          "number": null,
+          "size": 8648106,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-f4fde547685c",
+      "title": "义务教育教科书·英语（一年级起点）三年级上册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）三年级上册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）三年级上册.pdf",
+          "number": null,
+          "size": 10636815,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-2173278af48f",
+      "title": "义务教育教科书·英语（一年级起点）三年级下册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）三年级下册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）三年级下册.pdf",
+          "number": null,
+          "size": 10481554,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-1413f6b3100c",
+      "title": "义务教育教科书·英语（一年级起点）二年级上册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）二年级上册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）二年级上册.pdf",
+          "number": null,
+          "size": 7424529,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-caa700fa11a1",
+      "title": "义务教育教科书·英语（一年级起点）二年级下册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）二年级下册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）二年级下册.pdf",
+          "number": null,
+          "size": 8434567,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-2bfbe286491f",
+      "title": "义务教育教科书·英语（一年级起点）五年级上册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）五年级上册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）五年级上册.pdf",
+          "number": null,
+          "size": 9704772,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-ea05f4890147",
+      "title": "义务教育教科书·英语（一年级起点）五年级下册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）五年级下册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）五年级下册.pdf",
+          "number": null,
+          "size": 10198795,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-3577354ea642",
+      "title": "义务教育教科书·英语（一年级起点）六年级上册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）六年级上册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）六年级上册.pdf",
+          "number": null,
+          "size": 9586818,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-95fe2ab026c0",
+      "title": "义务教育教科书·英语（一年级起点）六年级下册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）六年级下册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）六年级下册.pdf",
+          "number": null,
+          "size": 9076906,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-826ddbbf4101",
+      "title": "义务教育教科书·英语（一年级起点）四年级上册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）四年级上册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）四年级上册.pdf",
+          "number": null,
+          "size": 9968733,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "book-44683a526766",
+      "title": "义务教育教科书·英语（一年级起点）四年级下册",
+      "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "英语",
+        "清华大学版"
+      ],
+      "stage": "小学",
+      "subject": "英语",
+      "edition": "清华大学版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/英语/清华大学版/义务教育教科书·英语（一年级起点）四年级下册.pdf",
+          "name": "义务教育教科书·英语（一年级起点）四年级下册.pdf",
+          "number": null,
+          "size": 10341589,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/英语/清华大学版/义务教育教科书·英语（一年级起点）四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 997
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/体育与健康/冀教版",
+  "name": "冀教版",
+  "indexPath": "ChinaTextbook-index/posters/小学/体育与健康/冀教版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/index.json",
+  "bookCount": 3,
+  "splitBookCount": 0,
+  "posterCount": 3,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-5280d01d076e",
+      "title": "义务教育教科书·体育与健康教师用书水平一水平一",
+      "path": "小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平一水平一.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "冀教版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "冀教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平一水平一.pdf",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf",
+          "number": null,
+          "size": 3860068,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平一水平一.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.png",
+        "width": 1400,
+        "height": 973
+      }
+    },
+    {
+      "id": "book-e327a4dfab4c",
+      "title": "义务教育教科书·体育与健康教师用书水平三水平三",
+      "path": "小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平三水平三.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "冀教版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "冀教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平三水平三.pdf",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf",
+          "number": null,
+          "size": 3598142,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平三水平三.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.png",
+        "width": 1400,
+        "height": 973
+      }
+    },
+    {
+      "id": "book-0d2c9684e33f",
+      "title": "义务教育教科书·体育与健康教师用书水平二水平二",
+      "path": "小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平二水平二.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "冀教版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "冀教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平二水平二.pdf",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf",
+          "number": null,
+          "size": 3774212,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/冀教版/义务教育教科书·体育与健康教师用书水平二水平二.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E5%86%80%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.png",
+        "width": 1400,
+        "height": 973
+      }
+    }
+  ]
+}

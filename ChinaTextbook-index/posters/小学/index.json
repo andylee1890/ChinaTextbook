@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学",
+  "name": "小学",
+  "indexPath": "ChinaTextbook-index/posters/小学/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/index.json",
+  "bookCount": 952,
+  "splitBookCount": 53,
+  "posterCount": 952,
+  "childCount": 10,
+  "children": [
+    {
+      "path": "小学/体育与健康",
+      "name": "体育与健康",
+      "indexPath": "ChinaTextbook-index/posters/小学/体育与健康/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/index.json",
+      "bookCount": 24,
+      "splitBookCount": 4,
+      "posterCount": 24,
+      "type": "directory"
+    },
+    {
+      "path": "小学/数学",
+      "name": "数学",
+      "indexPath": "ChinaTextbook-index/posters/小学/数学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/index.json",
+      "bookCount": 96,
+      "splitBookCount": 9,
+      "posterCount": 96,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学",
+      "name": "科学",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/index.json",
+      "bookCount": 154,
+      "splitBookCount": 1,
+      "posterCount": 154,
+      "type": "directory"
+    },
+    {
+      "path": "小学/美术",
+      "name": "美术",
+      "indexPath": "ChinaTextbook-index/posters/小学/美术/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/index.json",
+      "bookCount": 144,
+      "splitBookCount": 2,
+      "posterCount": 144,
+      "type": "directory"
+    },
+    {
+      "path": "小学/艺术",
+      "name": "艺术",
+      "indexPath": "ChinaTextbook-index/posters/小学/艺术/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/index.json",
+      "bookCount": 24,
+      "splitBookCount": 0,
+      "posterCount": 24,
+      "type": "directory"
+    },
+    {
+      "path": "小学/英语",
+      "name": "英语",
+      "indexPath": "ChinaTextbook-index/posters/小学/英语/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/index.json",
+      "bookCount": 228,
+      "splitBookCount": 20,
+      "posterCount": 228,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文",
+      "name": "语文",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87/index.json",
+      "bookCount": 12,
+      "splitBookCount": 0,
+      "posterCount": 12,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导",
+      "name": "语文·书法练习指导",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/index.json",
+      "bookCount": 88,
+      "splitBookCount": 2,
+      "posterCount": 88,
+      "type": "directory"
+    },
+    {
+      "path": "小学/道德与法治",
+      "name": "道德与法治",
+      "indexPath": "ChinaTextbook-index/posters/小学/道德与法治/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/index.json",
+      "bookCount": 14,
+      "splitBookCount": 2,
+      "posterCount": 14,
+      "type": "directory"
+    },
+    {
+      "path": "小学/音乐",
+      "name": "音乐",
+      "indexPath": "ChinaTextbook-index/posters/小学/音乐/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/index.json",
+      "bookCount": 168,
+      "splitBookCount": 13,
+      "posterCount": 168,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

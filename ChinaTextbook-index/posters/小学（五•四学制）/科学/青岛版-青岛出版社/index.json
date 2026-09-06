@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学（五•四学制）/科学/青岛版-青岛出版社",
+  "name": "青岛版-青岛出版社",
+  "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/科学/青岛版-青岛出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 20,
+  "splitBookCount": 0,
+  "posterCount": 20,
+  "childCount": 5,
+  "children": [
+    {
+      "path": "小学（五•四学制）/科学/青岛版-青岛出版社/一年级",
+      "name": "一年级",
+      "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/科学/青岛版-青岛出版社/一年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%80%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%80%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "小学（五•四学制）/科学/青岛版-青岛出版社/三年级",
+      "name": "三年级",
+      "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/科学/青岛版-青岛出版社/三年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%89%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%89%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "小学（五•四学制）/科学/青岛版-青岛出版社/二年级",
+      "name": "二年级",
+      "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/科学/青岛版-青岛出版社/二年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%BA%8C%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%BA%8C%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "小学（五•四学制）/科学/青岛版-青岛出版社/五年级",
+      "name": "五年级",
+      "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/科学/青岛版-青岛出版社/五年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%BA%94%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E4%BA%94%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "小学（五•四学制）/科学/青岛版-青岛出版社/四年级",
+      "name": "四年级",
+      "indexPath": "ChinaTextbook-index/posters/小学（五•四学制）/科学/青岛版-青岛出版社/四年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E5%9B%9B%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88-%E9%9D%92%E5%B2%9B%E5%87%BA%E7%89%88%E7%A4%BE/%E5%9B%9B%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

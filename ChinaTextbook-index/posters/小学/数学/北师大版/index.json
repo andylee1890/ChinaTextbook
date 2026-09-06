@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/数学/北师大版",
+  "name": "北师大版",
+  "indexPath": "ChinaTextbook-index/posters/小学/数学/北师大版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/index.json",
+  "bookCount": 12,
+  "splitBookCount": 3,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-be7505e3c3c7",
+      "title": "义务教育教科书·数学一年级上册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学一年级上册.pdf",
+          "name": "义务教育教科书·数学一年级上册.pdf",
+          "number": null,
+          "size": 52038985,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 989,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-66695f2a233d",
+      "title": "义务教育教科书·数学一年级下册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学一年级下册.pdf",
+          "name": "义务教育教科书·数学一年级下册.pdf",
+          "number": null,
+          "size": 44951064,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-246c2186f2aa",
+      "title": "义务教育教科书·数学三年级上册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学三年级上册.pdf",
+          "name": "义务教育教科书·数学三年级上册.pdf",
+          "number": null,
+          "size": 50956204,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 996,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-712378ab2a48",
+      "title": "义务教育教科书·数学三年级下册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学三年级下册.pdf",
+          "name": "义务教育教科书·数学三年级下册.pdf",
+          "number": null,
+          "size": 48833868,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 982,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-f78d2c220919",
+      "title": "义务教育教科书·数学二年级上册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学二年级上册.pdf.1",
+          "name": "义务教育教科书·数学二年级上册.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1"
+        },
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学二年级上册.pdf.2",
+          "name": "义务教育教科书·数学二年级上册.pdf.2",
+          "number": 2,
+          "size": 16545907,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 994,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-d8426ba7fa59",
+      "title": "义务教育教科书·数学二年级下册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学二年级下册.pdf",
+          "name": "义务教育教科书·数学二年级下册.pdf",
+          "number": null,
+          "size": 49323077,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 959,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-3f6930495647",
+      "title": "义务教育教科书·数学五年级上册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学五年级上册.pdf",
+          "name": "义务教育教科书·数学五年级上册.pdf",
+          "number": null,
+          "size": 51641244,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 994,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-90894dd173d1",
+      "title": "义务教育教科书·数学五年级下册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学五年级下册.pdf",
+          "name": "义务教育教科书·数学五年级下册.pdf",
+          "number": null,
+          "size": 45086347,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 970,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-d25e327e6dca",
+      "title": "义务教育教科书·数学六年级上册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学六年级上册.pdf",
+          "name": "义务教育教科书·数学六年级上册.pdf",
+          "number": null,
+          "size": 50618072,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 992,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-ed939b640623",
+      "title": "义务教育教科书·数学六年级下册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学六年级下册.pdf.1",
+          "name": "义务教育教科书·数学六年级下册.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.1"
+        },
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学六年级下册.pdf.2",
+          "name": "义务教育教科书·数学六年级下册.pdf.2",
+          "number": 2,
+          "size": 23222474,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 976,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-9754a503b606",
+      "title": "义务教育教科书·数学四年级上册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学四年级上册.pdf.1",
+          "name": "义务教育教科书·数学四年级上册.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1"
+        },
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学四年级上册.pdf.2",
+          "name": "义务教育教科书·数学四年级上册.pdf.2",
+          "number": 2,
+          "size": 17293003,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 991,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-4dee9c5aaba9",
+      "title": "义务教育教科书·数学四年级下册",
+      "path": "小学/数学/北师大版/义务教育教科书·数学四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "数学",
+        "北师大版"
+      ],
+      "stage": "小学",
+      "subject": "数学",
+      "edition": "北师大版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/数学/北师大版/义务教育教科书·数学四年级下册.pdf",
+          "name": "义务教育教科书·数学四年级下册.pdf",
+          "number": null,
+          "size": 49973640,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/数学/北师大版/义务教育教科书·数学四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 977,
+        "height": 1400
+      }
+    }
+  ]
+}

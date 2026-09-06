@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/艺术",
+  "name": "艺术",
+  "indexPath": "ChinaTextbook-index/posters/高中/艺术/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E8%89%BA%E6%9C%AF/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E8%89%BA%E6%9C%AF/index.json",
+  "bookCount": 18,
+  "splitBookCount": 0,
+  "posterCount": 18,
+  "childCount": 2,
+  "children": [
+    {
+      "path": "高中/艺术/沪教版-上海教育出版社",
+      "name": "沪教版-上海教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/艺术/沪教版-上海教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E8%89%BA%E6%9C%AF/%E6%B2%AA%E6%95%99%E7%89%88-%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E8%89%BA%E6%9C%AF/%E6%B2%AA%E6%95%99%E7%89%88-%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 9,
+      "splitBookCount": 0,
+      "posterCount": 9,
+      "type": "directory"
+    },
+    {
+      "path": "高中/艺术/粤教版-广东教育出版社",
+      "name": "粤教版-广东教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/艺术/粤教版-广东教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E8%89%BA%E6%9C%AF/%E7%B2%A4%E6%95%99%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E8%89%BA%E6%9C%AF/%E7%B2%A4%E6%95%99%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 9,
+      "splitBookCount": 0,
+      "posterCount": 9,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

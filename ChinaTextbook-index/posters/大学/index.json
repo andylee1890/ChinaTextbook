@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "大学",
+  "name": "大学",
+  "indexPath": "ChinaTextbook-index/posters/大学/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/index.json",
+  "bookCount": 15,
+  "splitBookCount": 2,
+  "posterCount": 15,
+  "childCount": 4,
+  "children": [
+    {
+      "path": "大学/概率论",
+      "name": "概率论",
+      "indexPath": "ChinaTextbook-index/posters/大学/概率论/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/index.json",
+      "bookCount": 1,
+      "splitBookCount": 0,
+      "posterCount": 1,
+      "type": "directory"
+    },
+    {
+      "path": "大学/离散数学",
+      "name": "离散数学",
+      "indexPath": "ChinaTextbook-index/posters/大学/离散数学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/index.json",
+      "bookCount": 4,
+      "splitBookCount": 1,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "大学/线性代数",
+      "name": "线性代数",
+      "indexPath": "ChinaTextbook-index/posters/大学/线性代数/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.json",
+      "bookCount": 2,
+      "splitBookCount": 0,
+      "posterCount": 2,
+      "type": "directory"
+    },
+    {
+      "path": "大学/高等数学",
+      "name": "高等数学",
+      "indexPath": "ChinaTextbook-index/posters/大学/高等数学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/index.json",
+      "bookCount": 8,
+      "splitBookCount": 1,
+      "posterCount": 8,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

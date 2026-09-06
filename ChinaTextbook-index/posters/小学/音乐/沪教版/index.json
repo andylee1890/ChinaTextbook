@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/音乐/沪教版",
+  "name": "沪教版",
+  "indexPath": "ChinaTextbook-index/posters/小学/音乐/沪教版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-8f2a5318ad16",
+      "title": "义务教育教科书·音乐一年级上册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐一年级上册.pdf",
+          "name": "义务教育教科书·音乐一年级上册.pdf",
+          "number": null,
+          "size": 22619796,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-fb211d82a15f",
+      "title": "义务教育教科书·音乐一年级下册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐一年级下册.pdf",
+          "name": "义务教育教科书·音乐一年级下册.pdf",
+          "number": null,
+          "size": 19121673,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-fedca2f82924",
+      "title": "义务教育教科书·音乐三年级上册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐三年级上册.pdf",
+          "name": "义务教育教科书·音乐三年级上册.pdf",
+          "number": null,
+          "size": 23233026,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-2b87b23be750",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐三年级下册.pdf",
+          "name": "义务教育教科书·音乐三年级下册.pdf",
+          "number": null,
+          "size": 17756735,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-45f8301c067f",
+      "title": "义务教育教科书·音乐二年级上册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐二年级上册.pdf",
+          "name": "义务教育教科书·音乐二年级上册.pdf",
+          "number": null,
+          "size": 20110278,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-f0f1ef27f24e",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐二年级下册.pdf",
+          "name": "义务教育教科书·音乐二年级下册.pdf",
+          "number": null,
+          "size": 21905217,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-6060a060c5a9",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐五年级上册.pdf",
+          "name": "义务教育教科书·音乐五年级上册.pdf",
+          "number": null,
+          "size": 12883606,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-0fe6514b5f61",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐五年级下册.pdf",
+          "name": "义务教育教科书·音乐五年级下册.pdf",
+          "number": null,
+          "size": 13632947,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-6d3e0c5e9bce",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐六年级上册.pdf",
+          "name": "义务教育教科书·音乐六年级上册.pdf",
+          "number": null,
+          "size": 16355890,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-25ea57b01fe6",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐六年级下册.pdf",
+          "name": "义务教育教科书·音乐六年级下册.pdf",
+          "number": null,
+          "size": 11790272,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-9e441c8064ab",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐四年级上册.pdf",
+          "name": "义务教育教科书·音乐四年级上册.pdf",
+          "number": null,
+          "size": 21306893,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "book-4263c841ef86",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学/音乐/沪教版/义务教育教科书·音乐四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "沪教版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "沪教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/沪教版/义务教育教科书·音乐四年级下册.pdf",
+          "name": "义务教育教科书·音乐四年级下册.pdf",
+          "number": null,
+          "size": 16114001,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/沪教版/义务教育教科书·音乐四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%B2%AA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    }
+  ]
+}

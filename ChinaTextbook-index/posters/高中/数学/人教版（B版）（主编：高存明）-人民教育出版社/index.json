@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社",
+  "name": "人教版（B版）（主编：高存明）-人民教育出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 7,
+  "splitBookCount": 0,
+  "posterCount": 7,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "b-584d3fc978f9",
+      "title": "普通高中教科书·数学（B版）必修 第一册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第一册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第一册.pdf",
+          "name": "普通高中教科书·数学（B版）必修 第一册.pdf",
+          "number": null,
+          "size": 8825965,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 998
+      }
+    },
+    {
+      "id": "b-2f968092be37",
+      "title": "普通高中教科书·数学（B版）必修 第三册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第三册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第三册.pdf",
+          "name": "普通高中教科书·数学（B版）必修 第三册.pdf",
+          "number": null,
+          "size": 8268697,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第三册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "b-88b62091f3d5",
+      "title": "普通高中教科书·数学（B版）必修 第二册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第二册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第二册.pdf",
+          "name": "普通高中教科书·数学（B版）必修 第二册.pdf",
+          "number": null,
+          "size": 10652249,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第二册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "width": 1400,
+        "height": 993
+      }
+    },
+    {
+      "id": "b-272591c396fa",
+      "title": "普通高中教科书·数学（B版）必修 第四册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第四册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第四册.pdf",
+          "name": "普通高中教科书·数学（B版）必修 第四册.pdf",
+          "number": null,
+          "size": 35415577,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E5%9B%9B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E5%9B%9B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）必修 第四册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E5%9B%9B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E5%9B%9B%E5%86%8C.png",
+        "width": 1400,
+        "height": 999
+      }
+    },
+    {
+      "id": "b-1260334856b0",
+      "title": "普通高中教科书·数学（B版）选择性必修 第一册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第一册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第一册.pdf",
+          "name": "普通高中教科书·数学（B版）选择性必修 第一册.pdf",
+          "number": null,
+          "size": 8620501,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 994
+      }
+    },
+    {
+      "id": "b-f86e1af62182",
+      "title": "普通高中教科书·数学（B版）选择性必修 第三册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第三册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第三册.pdf",
+          "name": "普通高中教科书·数学（B版）选择性必修 第三册.pdf",
+          "number": null,
+          "size": 29896157,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第三册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "b-6f86edc4c81b",
+      "title": "普通高中教科书·数学（B版）选择性必修 第二册",
+      "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第二册.pdf",
+      "directoryParts": [
+        "高中",
+        "数学",
+        "人教版（B版）（主编：高存明）-人民教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "数学",
+      "edition": "人教版（B版）（主编：高存明）-人民教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第二册.pdf",
+          "name": "普通高中教科书·数学（B版）选择性必修 第二册.pdf",
+          "number": null,
+          "size": 37161638,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/数学/人教版（B版）（主编：高存明）-人民教育出版社/普通高中教科书·数学（B版）选择性必修 第二册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88B%E7%89%88%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%AB%98%E5%AD%98%E6%98%8E%EF%BC%89-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%EF%BC%88B%E7%89%88%EF%BC%89%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "width": 1400,
+        "height": 999
+      }
+    }
+  ]
+}

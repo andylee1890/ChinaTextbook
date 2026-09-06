@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "初中（五•四学制）",
+  "name": "初中（五•四学制）",
+  "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/index.json",
+  "bookCount": 65,
+  "splitBookCount": 5,
+  "posterCount": 65,
+  "childCount": 8,
+  "children": [
+    {
+      "path": "初中（五•四学制）/化学",
+      "name": "化学",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/化学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E5%8C%96%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E5%8C%96%E5%AD%A6/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/地理",
+      "name": "地理",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/地理/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E5%9C%B0%E7%90%86/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E5%9C%B0%E7%90%86/index.json",
+      "bookCount": 4,
+      "splitBookCount": 4,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/数学",
+      "name": "数学",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/数学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E6%95%B0%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E6%95%B0%E5%AD%A6/index.json",
+      "bookCount": 16,
+      "splitBookCount": 0,
+      "posterCount": 16,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/物理",
+      "name": "物理",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/物理/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%89%A9%E7%90%86/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%89%A9%E7%90%86/index.json",
+      "bookCount": 4,
+      "splitBookCount": 0,
+      "posterCount": 4,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/生物学",
+      "name": "生物学",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/生物学/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%94%9F%E7%89%A9%E5%AD%A6/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%94%9F%E7%89%A9%E5%AD%A6/index.json",
+      "bookCount": 6,
+      "splitBookCount": 0,
+      "posterCount": 6,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/美术",
+      "name": "美术",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/美术/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%BE%8E%E6%9C%AF/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E7%BE%8E%E6%9C%AF/index.json",
+      "bookCount": 8,
+      "splitBookCount": 1,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/英语",
+      "name": "英语",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/英语/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E8%8B%B1%E8%AF%AD/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E8%8B%B1%E8%AF%AD/index.json",
+      "bookCount": 15,
+      "splitBookCount": 0,
+      "posterCount": 15,
+      "type": "directory"
+    },
+    {
+      "path": "初中（五•四学制）/音乐",
+      "name": "音乐",
+      "indexPath": "ChinaTextbook-index/posters/初中（五•四学制）/音乐/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E9%9F%B3%E4%B9%90/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD%EF%BC%88%E4%BA%94%E2%80%A2%E5%9B%9B%E5%AD%A6%E5%88%B6%EF%BC%89/%E9%9F%B3%E4%B9%90/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

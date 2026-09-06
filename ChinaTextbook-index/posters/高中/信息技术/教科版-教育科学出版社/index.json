@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/信息技术/教科版-教育科学出版社",
+  "name": "教科版-教育科学出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 8,
+  "splitBookCount": 2,
+  "posterCount": 8,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "1-6ccc58e0ea29",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修1 数据与计算.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修1 数据与计算.pdf",
+          "name": "普通高中教科书·信息技术必修1 数据与计算.pdf",
+          "number": null,
+          "size": 38361771,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%AE%A1%E7%AE%97.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%AE%A1%E7%AE%97.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修1 数据与计算.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%AE%A1%E7%AE%97.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%AE%A1%E7%AE%97.png",
+        "width": 985,
+        "height": 1400
+      }
+    },
+    {
+      "id": "2-23ab0e9a54cd",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修2 信息系统与社会.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修2 信息系统与社会.pdf.1",
+          "name": "普通高中教科书·信息技术必修2 信息系统与社会.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE2%20%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%A4%BE%E4%BC%9A.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE2%20%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%A4%BE%E4%BC%9A.pdf.1"
+        },
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修2 信息系统与社会.pdf.2",
+          "name": "普通高中教科书·信息技术必修2 信息系统与社会.pdf.2",
+          "number": 2,
+          "size": 15817403,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE2%20%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%A4%BE%E4%BC%9A.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE2%20%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%A4%BE%E4%BC%9A.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术必修2 信息系统与社会.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE2%20%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%A4%BE%E4%BC%9A.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BF%85%E4%BF%AE2%20%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%A4%BE%E4%BC%9A.png",
+        "width": 987,
+        "height": 1400
+      }
+    },
+    {
+      "id": "1-c06be604c388",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修1 数据与数据结构.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修1 数据与数据结构.pdf.1",
+          "name": "普通高中教科书·信息技术选择性必修1 数据与数据结构.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf.1"
+        },
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修1 数据与数据结构.pdf.2",
+          "name": "普通高中教科书·信息技术选择性必修1 数据与数据结构.pdf.2",
+          "number": 2,
+          "size": 21669139,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修1 数据与数据结构.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.png",
+        "width": 993,
+        "height": 1400
+      }
+    },
+    {
+      "id": "2-2fdb4b8692b5",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修2 网络基础.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修2 网络基础.pdf",
+          "name": "普通高中教科书·信息技术选择性必修2 网络基础.pdf",
+          "number": null,
+          "size": 34405846,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修2 网络基础.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.png",
+        "width": 991,
+        "height": 1400
+      }
+    },
+    {
+      "id": "3-6ad785e915f2",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修3 数据管理与分析.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修3 数据管理与分析.pdf",
+          "name": "普通高中教科书·信息技术选择性必修3 数据管理与分析.pdf",
+          "number": null,
+          "size": 34076598,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修3 数据管理与分析.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90.png",
+        "width": 997,
+        "height": 1400
+      }
+    },
+    {
+      "id": "4-db6898a62b26",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修4 人工智能初步.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修4 人工智能初步.pdf",
+          "name": "普通高中教科书·信息技术选择性必修4 人工智能初步.pdf",
+          "number": null,
+          "size": 37575478,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E6%AD%A5.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E6%AD%A5.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修4 人工智能初步.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E6%AD%A5.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E6%AD%A5.png",
+        "width": 991,
+        "height": 1400
+      }
+    },
+    {
+      "id": "5-fe5ab7ae6721",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修5 三维设计与创意.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修5 三维设计与创意.pdf",
+          "name": "普通高中教科书·信息技术选择性必修5 三维设计与创意.pdf",
+          "number": null,
+          "size": 46157309,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E4%B8%89%E7%BB%B4%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%9B%E6%84%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E4%B8%89%E7%BB%B4%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%9B%E6%84%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修5 三维设计与创意.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E4%B8%89%E7%BB%B4%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%9B%E6%84%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E4%B8%89%E7%BB%B4%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%9B%E6%84%8F.png",
+        "width": 992,
+        "height": 1400
+      }
+    },
+    {
+      "id": "6-c1e068560310",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修6 开源硬件项目设计.pdf",
+      "directoryParts": [
+        "高中",
+        "信息技术",
+        "教科版-教育科学出版社"
+      ],
+      "stage": "高中",
+      "subject": "信息技术",
+      "edition": "教科版-教育科学出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修6 开源硬件项目设计.pdf",
+          "name": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计.pdf",
+          "number": null,
+          "size": 46818244,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/信息技术/教科版-教育科学出版社/普通高中教科书·信息技术选择性必修6 开源硬件项目设计.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88-%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1.png",
+        "width": 992,
+        "height": 1400
+      }
+    }
+  ]
+}

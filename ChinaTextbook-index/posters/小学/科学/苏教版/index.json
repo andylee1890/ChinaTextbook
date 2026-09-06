@@ -1,0 +1,838 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/科学/苏教版",
+  "name": "苏教版",
+  "indexPath": "ChinaTextbook-index/posters/小学/科学/苏教版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/index.json",
+  "bookCount": 24,
+  "splitBookCount": 0,
+  "posterCount": 24,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-92f897955340",
+      "title": "义务教育教科书·科学·学生活动手册一年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册一年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册一年级上册.pdf",
+          "number": null,
+          "size": 13857113,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-343d5d5b27a5",
+      "title": "义务教育教科书·科学·学生活动手册一年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册一年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册一年级下册.pdf",
+          "number": null,
+          "size": 6055460,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-abd0b0807cc4",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册三年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册三年级上册.pdf",
+          "number": null,
+          "size": 2890177,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-c878a6666797",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册三年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册三年级下册.pdf",
+          "number": null,
+          "size": 2066420,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-af08de9f2224",
+      "title": "义务教育教科书·科学·学生活动手册二年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册二年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册二年级上册.pdf",
+          "number": null,
+          "size": 11024263,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-3b7434ec660e",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册二年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册二年级下册.pdf",
+          "number": null,
+          "size": 8026247,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-3b47b44b11c4",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册五年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册五年级上册.pdf",
+          "number": null,
+          "size": 2044172,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-fbf0ee80d04f",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册五年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册五年级下册.pdf",
+          "number": null,
+          "size": 3859070,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-fac0536241d5",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册六年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册六年级上册.pdf",
+          "number": null,
+          "size": 1793318,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-c4db4e53dc63",
+      "title": "义务教育教科书·科学·学生活动手册六年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册六年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册六年级下册.pdf",
+          "number": null,
+          "size": 7035365,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-93b12e87cc2b",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册四年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册四年级上册.pdf",
+          "number": null,
+          "size": 3019786,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-43b9ef53ba67",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学·学生活动手册四年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册四年级下册.pdf",
+          "number": null,
+          "size": 2140987,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学·学生活动手册四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-d02419de6383",
+      "title": "义务教育教科书·科学一年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学一年级上册.pdf",
+          "name": "义务教育教科书·科学一年级上册.pdf",
+          "number": null,
+          "size": 8742523,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-7d93bf121b95",
+      "title": "义务教育教科书·科学一年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学一年级下册.pdf",
+          "name": "义务教育教科书·科学一年级下册.pdf",
+          "number": null,
+          "size": 8380835,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-efe557c5d645",
+      "title": "义务教育教科书·科学三年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学三年级上册.pdf",
+          "name": "义务教育教科书·科学三年级上册.pdf",
+          "number": null,
+          "size": 10668793,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-0b3931b93a68",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学三年级下册.pdf",
+          "name": "义务教育教科书·科学三年级下册.pdf",
+          "number": null,
+          "size": 8743697,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 982
+      }
+    },
+    {
+      "id": "book-34a43e0ddb4d",
+      "title": "义务教育教科书·科学二年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学二年级上册.pdf",
+          "name": "义务教育教科书·科学二年级上册.pdf",
+          "number": null,
+          "size": 6557373,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-fef9ca4f731d",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学二年级下册.pdf",
+          "name": "义务教育教科书·科学二年级下册.pdf",
+          "number": null,
+          "size": 6291962,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-a99dd482c2d4",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学五年级上册.pdf",
+          "name": "义务教育教科书·科学五年级上册.pdf",
+          "number": null,
+          "size": 10551440,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-4a632ff366fa",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学五年级下册.pdf",
+          "name": "义务教育教科书·科学五年级下册.pdf",
+          "number": null,
+          "size": 8005001,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-fcb710ed2df4",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学六年级上册.pdf",
+          "name": "义务教育教科书·科学六年级上册.pdf",
+          "number": null,
+          "size": 7971710,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-ab803bc8b6b9",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学六年级下册.pdf",
+          "name": "义务教育教科书·科学六年级下册.pdf",
+          "number": null,
+          "size": 8052411,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-d53e108e7a77",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学四年级上册.pdf",
+          "name": "义务教育教科书·科学四年级上册.pdf",
+          "number": null,
+          "size": 8507968,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-a5bc40c559b5",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学/科学/苏教版/义务教育教科书·科学四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "苏教版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "苏教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/苏教版/义务教育教科书·科学四年级下册.pdf",
+          "name": "义务教育教科书·科学四年级下册.pdf",
+          "number": null,
+          "size": 7482487,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/苏教版/义务教育教科书·科学四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    }
+  ]
+}

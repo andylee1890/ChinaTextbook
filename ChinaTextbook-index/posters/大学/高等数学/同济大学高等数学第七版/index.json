@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "大学/高等数学/同济大学高等数学第七版",
+  "name": "同济大学高等数学第七版",
+  "indexPath": "ChinaTextbook-index/posters/大学/高等数学/同济大学高等数学第七版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/index.json",
+  "bookCount": 4,
+  "splitBookCount": 1,
+  "posterCount": 4,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-891481e36b72",
+      "title": "同济高 等数学 第七版下册",
+      "path": "大学/高等数学/同济大学高等数学第七版/同济高 等数学 第七版下册.pdf",
+      "directoryParts": [
+        "大学",
+        "高等数学",
+        "同济大学高等数学第七版"
+      ],
+      "stage": "大学",
+      "subject": "高等数学",
+      "edition": "同济大学高等数学第七版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "大学/高等数学/同济大学高等数学第七版/同济高 等数学 第七版下册.pdf",
+          "name": "同济高 等数学 第七版下册.pdf",
+          "number": null,
+          "size": 7383449,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E5%90%8C%E6%B5%8E%E9%AB%98%20%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E5%90%8C%E6%B5%8E%E9%AB%98%20%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/大学/高等数学/同济大学高等数学第七版/同济高 等数学 第七版下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E5%90%8C%E6%B5%8E%E9%AB%98%20%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E5%90%8C%E6%B5%8E%E9%AB%98%20%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8B%E5%86%8C.png",
+        "width": 1038,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-1a5b960b1930",
+      "title": "高数习题答案 同济大学上册 第七版",
+      "path": "大学/高等数学/同济大学高等数学第七版/高数习题答案 同济大学上册 第七版.pdf",
+      "directoryParts": [
+        "大学",
+        "高等数学",
+        "同济大学高等数学第七版"
+      ],
+      "stage": "大学",
+      "subject": "高等数学",
+      "edition": "同济大学高等数学第七版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "大学/高等数学/同济大学高等数学第七版/高数习题答案 同济大学上册 第七版.pdf",
+          "name": "高数习题答案 同济大学上册 第七版.pdf",
+          "number": null,
+          "size": 43000608,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E4%B8%8A%E5%86%8C%20%E7%AC%AC%E4%B8%83%E7%89%88.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E4%B8%8A%E5%86%8C%20%E7%AC%AC%E4%B8%83%E7%89%88.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/大学/高等数学/同济大学高等数学第七版/高数习题答案 同济大学上册 第七版.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E4%B8%8A%E5%86%8C%20%E7%AC%AC%E4%B8%83%E7%89%88.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E4%B8%8A%E5%86%8C%20%E7%AC%AC%E4%B8%83%E7%89%88.png",
+        "width": 956,
+        "height": 1400
+      }
+    },
+    {
+      "id": "7-91d5eefc5a85",
+      "title": "高等数学 同济第7版 下册 习题全解指南 课后习题答案解析",
+      "path": "大学/高等数学/同济大学高等数学第七版/高等数学 同济第7版 下册 习题全解指南 课后习题答案解析.pdf",
+      "directoryParts": [
+        "大学",
+        "高等数学",
+        "同济大学高等数学第七版"
+      ],
+      "stage": "大学",
+      "subject": "高等数学",
+      "edition": "同济大学高等数学第七版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "大学/高等数学/同济大学高等数学第七版/高等数学 同济第7版 下册 习题全解指南 课后习题答案解析.pdf",
+          "name": "高等数学 同济第7版 下册 习题全解指南 课后习题答案解析.pdf",
+          "number": null,
+          "size": 47143955,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E5%90%8C%E6%B5%8E%E7%AC%AC7%E7%89%88%20%E4%B8%8B%E5%86%8C%20%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E5%90%8C%E6%B5%8E%E7%AC%AC7%E7%89%88%20%E4%B8%8B%E5%86%8C%20%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/大学/高等数学/同济大学高等数学第七版/高等数学 同济第7版 下册 习题全解指南 课后习题答案解析.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E5%90%8C%E6%B5%8E%E7%AC%AC7%E7%89%88%20%E4%B8%8B%E5%86%8C%20%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E5%90%8C%E6%B5%8E%E7%AC%AC7%E7%89%88%20%E4%B8%8B%E5%86%8C%20%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.png",
+        "width": 981,
+        "height": 1400
+      }
+    },
+    {
+      "id": "7-70105d325b91",
+      "title": "高等数学 第7版 上册 同济大学",
+      "path": "大学/高等数学/同济大学高等数学第七版/高等数学 第7版 上册 同济大学.pdf",
+      "directoryParts": [
+        "大学",
+        "高等数学",
+        "同济大学高等数学第七版"
+      ],
+      "stage": "大学",
+      "subject": "高等数学",
+      "edition": "同济大学高等数学第七版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "大学/高等数学/同济大学高等数学第七版/高等数学 第7版 上册 同济大学.pdf.1",
+          "name": "高等数学 第7版 上册 同济大学.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC7%E7%89%88%20%E4%B8%8A%E5%86%8C%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC7%E7%89%88%20%E4%B8%8A%E5%86%8C%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf.1"
+        },
+        {
+          "path": "大学/高等数学/同济大学高等数学第七版/高等数学 第7版 上册 同济大学.pdf.2",
+          "name": "高等数学 第7版 上册 同济大学.pdf.2",
+          "number": 2,
+          "size": 21211497,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC7%E7%89%88%20%E4%B8%8A%E5%86%8C%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC7%E7%89%88%20%E4%B8%8A%E5%86%8C%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/大学/高等数学/同济大学高等数学第七版/高等数学 第7版 上册 同济大学.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC7%E7%89%88%20%E4%B8%8A%E5%86%8C%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%20%E7%AC%AC7%E7%89%88%20%E4%B8%8A%E5%86%8C%20%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.png",
+        "width": 1018,
+        "height": 1400
+      }
+    }
+  ]
+}

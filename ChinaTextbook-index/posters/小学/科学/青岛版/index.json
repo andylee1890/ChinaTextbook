@@ -1,0 +1,770 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/科学/青岛版",
+  "name": "青岛版",
+  "indexPath": "ChinaTextbook-index/posters/小学/科学/青岛版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/index.json",
+  "bookCount": 22,
+  "splitBookCount": 0,
+  "posterCount": 22,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-b2373ae00257",
+      "title": "义务教育教科书·科学·学生活动手册一年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册一年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册一年级上册.pdf",
+          "number": null,
+          "size": 12970195,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-3c2d79d9a3bd",
+      "title": "义务教育教科书·科学·学生活动手册一年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册一年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册一年级下册.pdf",
+          "number": null,
+          "size": 23372841,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-ec87970cffbb",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册三年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册三年级上册.pdf",
+          "number": null,
+          "size": 9017857,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-47ccd600fb4e",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册三年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册三年级下册.pdf",
+          "number": null,
+          "size": 8676779,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-39a3fe2464c0",
+      "title": "义务教育教科书·科学·学生活动手册二年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册二年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册二年级上册.pdf",
+          "number": null,
+          "size": 7358503,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-0edd7bb901d3",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册二年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册二年级下册.pdf",
+          "number": null,
+          "size": 5677245,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-ffd674a49d16",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册五年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册五年级上册.pdf",
+          "number": null,
+          "size": 6551561,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-63bd1aa6cadd",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册五年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册五年级下册.pdf",
+          "number": null,
+          "size": 8916057,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-aff4eabe2824",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册四年级上册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册四年级上册.pdf",
+          "number": null,
+          "size": 5739971,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-913216cc224f",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学·学生活动手册四年级下册.pdf",
+          "name": "义务教育教科书·科学·学生活动手册四年级下册.pdf",
+          "number": null,
+          "size": 4165563,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学·学生活动手册四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%C2%B7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%8A%A8%E6%89%8B%E5%86%8C%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-d38859d5c131",
+      "title": "义务教育教科书·科学一年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学一年级上册.pdf",
+          "name": "义务教育教科书·科学一年级上册.pdf",
+          "number": null,
+          "size": 9910921,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-8360a438e33e",
+      "title": "义务教育教科书·科学一年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学一年级下册.pdf",
+          "name": "义务教育教科书·科学一年级下册.pdf",
+          "number": null,
+          "size": 5144829,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-0dae95dea2f2",
+      "title": "义务教育教科书·科学三年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学三年级上册.pdf",
+          "name": "义务教育教科书·科学三年级上册.pdf",
+          "number": null,
+          "size": 6482976,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-5f5e105f0aec",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学三年级下册.pdf",
+          "name": "义务教育教科书·科学三年级下册.pdf",
+          "number": null,
+          "size": 6657084,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-2933df631a84",
+      "title": "义务教育教科书·科学二年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学二年级上册.pdf",
+          "name": "义务教育教科书·科学二年级上册.pdf",
+          "number": null,
+          "size": 10065986,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-303ff76cc276",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学二年级下册.pdf",
+          "name": "义务教育教科书·科学二年级下册.pdf",
+          "number": null,
+          "size": 4975124,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-8205301e48db",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学五年级上册.pdf",
+          "name": "义务教育教科书·科学五年级上册.pdf",
+          "number": null,
+          "size": 6559915,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-27fbe033d435",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学五年级下册.pdf",
+          "name": "义务教育教科书·科学五年级下册.pdf",
+          "number": null,
+          "size": 6626973,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-b4976909c72b",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学六年级上册.pdf",
+          "name": "义务教育教科书·科学六年级上册.pdf",
+          "number": null,
+          "size": 30168979,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1007,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-29004e804269",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学六年级下册.pdf",
+          "name": "义务教育教科书·科学六年级下册.pdf",
+          "number": null,
+          "size": 19461527,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1007,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-7e6012112b02",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学四年级上册.pdf",
+          "name": "义务教育教科书·科学四年级上册.pdf",
+          "number": null,
+          "size": 6485295,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-037025b79db0",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学/科学/青岛版/义务教育教科书·科学四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "科学",
+        "青岛版"
+      ],
+      "stage": "小学",
+      "subject": "科学",
+      "edition": "青岛版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/科学/青岛版/义务教育教科书·科学四年级下册.pdf",
+          "name": "义务教育教科书·科学四年级下册.pdf",
+          "number": null,
+          "size": 6617253,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/科学/青岛版/义务教育教科书·科学四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%A7%91%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1006,
+        "height": 1400
+      }
+    }
+  ]
+}

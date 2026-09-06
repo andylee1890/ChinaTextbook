@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/道德与法治/统编版",
+  "name": "统编版",
+  "indexPath": "ChinaTextbook-index/posters/小学/道德与法治/统编版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/index.json",
+  "bookCount": 14,
+  "splitBookCount": 2,
+  "posterCount": 14,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-c863b4d83268",
+      "title": "义务教育教科书·道德与法治一年级上册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治一年级上册.pdf",
+          "name": "义务教育教科书·道德与法治一年级上册.pdf",
+          "number": null,
+          "size": 36166745,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1007
+      }
+    },
+    {
+      "id": "book-e42ab65eafb3",
+      "title": "义务教育教科书·道德与法治一年级下册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治一年级下册.pdf",
+          "name": "义务教育教科书·道德与法治一年级下册.pdf",
+          "number": null,
+          "size": 45475235,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1007
+      }
+    },
+    {
+      "id": "book-a9c5abe7995f",
+      "title": "义务教育教科书·道德与法治三年级上册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治三年级上册.pdf",
+          "name": "义务教育教科书·道德与法治三年级上册.pdf",
+          "number": null,
+          "size": 26766994,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-bdcfd9eb29e5",
+      "title": "义务教育教科书·道德与法治三年级下册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治三年级下册.pdf",
+          "name": "义务教育教科书·道德与法治三年级下册.pdf",
+          "number": null,
+          "size": 25556933,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-3f5321e1aae6",
+      "title": "义务教育教科书·道德与法治二年级上册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治二年级上册.pdf",
+          "name": "义务教育教科书·道德与法治二年级上册.pdf",
+          "number": null,
+          "size": 44608611,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1007
+      }
+    },
+    {
+      "id": "book-9935b75eeba3",
+      "title": "义务教育教科书·道德与法治二年级下册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治二年级下册.pdf",
+          "name": "义务教育教科书·道德与法治二年级下册.pdf",
+          "number": null,
+          "size": 43226805,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1007
+      }
+    },
+    {
+      "id": "book-d380358054de",
+      "title": "义务教育教科书·道德与法治五年级上册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治五年级上册.pdf",
+          "name": "义务教育教科书·道德与法治五年级上册.pdf",
+          "number": null,
+          "size": 14126397,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-e08ca981506b",
+      "title": "义务教育教科书·道德与法治五年级下册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治五年级下册.pdf",
+          "name": "义务教育教科书·道德与法治五年级下册.pdf",
+          "number": null,
+          "size": 10495792,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-7cfe8053e1a7",
+      "title": "义务教育教科书·道德与法治六年级上册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治六年级上册.pdf",
+          "name": "义务教育教科书·道德与法治六年级上册.pdf",
+          "number": null,
+          "size": 13338401,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-d9c524993dda",
+      "title": "义务教育教科书·道德与法治六年级下册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治六年级下册.pdf",
+          "name": "义务教育教科书·道德与法治六年级下册.pdf",
+          "number": null,
+          "size": 14015573,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1005
+      }
+    },
+    {
+      "id": "book-63dd3ec0d531",
+      "title": "义务教育教科书·道德与法治四年级上册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治四年级上册.pdf",
+          "name": "义务教育教科书·道德与法治四年级上册.pdf",
+          "number": null,
+          "size": 18631766,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-127a3216b03b",
+      "title": "义务教育教科书·道德与法治四年级下册",
+      "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/义务教育教科书·道德与法治四年级下册.pdf",
+          "name": "义务教育教科书·道德与法治四年级下册.pdf",
+          "number": null,
+          "size": 18644937,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/义务教育教科书·道德与法治四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1004
+      }
+    },
+    {
+      "id": "book-b74f9a5d1163",
+      "title": "习近平新时代中国特色社会主义思想学生读本·小学低年级",
+      "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.1",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.1"
+        },
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.2",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.2",
+          "number": 2,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.2"
+        },
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.3",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.3",
+          "number": 3,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.3",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.3"
+        },
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.4",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.4",
+          "number": 4,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.4",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.4"
+        },
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.5",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学低年级.pdf.5",
+          "number": 5,
+          "size": 9043604,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.5",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.pdf.5"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学低年级.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7.png",
+        "width": 1400,
+        "height": 1009
+      }
+    },
+    {
+      "id": "book-08dcc0ccf7e6",
+      "title": "习近平新时代中国特色社会主义思想学生读本·小学高年级",
+      "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学高年级.pdf",
+      "directoryParts": [
+        "小学",
+        "道德与法治",
+        "统编版"
+      ],
+      "stage": "小学",
+      "subject": "道德与法治",
+      "edition": "统编版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学高年级.pdf.1",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学高年级.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7.pdf.1"
+        },
+        {
+          "path": "小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学高年级.pdf.2",
+          "name": "习近平新时代中国特色社会主义思想学生读本·小学高年级.pdf.2",
+          "number": 2,
+          "size": 36665216,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/道德与法治/统编版/习近平新时代中国特色社会主义思想学生读本·小学高年级.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%AD%A6%E7%94%9F%E8%AF%BB%E6%9C%AC%C2%B7%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7.png",
+        "width": 1400,
+        "height": 1004
+      }
+    }
+  ]
+}

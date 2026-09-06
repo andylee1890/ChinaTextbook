@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/美术/人美版（主编：常锐伦&欧京海）",
+  "name": "人美版（主编：常锐伦&欧京海）",
+  "indexPath": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-35deb9822669",
+      "title": "义务教育教科书·美术一年级上册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术一年级上册.pdf",
+          "name": "义务教育教科书·美术一年级上册.pdf",
+          "number": null,
+          "size": 10624777,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-deb79afe3fea",
+      "title": "义务教育教科书·美术一年级下册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术一年级下册.pdf",
+          "name": "义务教育教科书·美术一年级下册.pdf",
+          "number": null,
+          "size": 11494642,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-1f2f2f9a0554",
+      "title": "义务教育教科书·美术三年级上册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术三年级上册.pdf",
+          "name": "义务教育教科书·美术三年级上册.pdf",
+          "number": null,
+          "size": 4985419,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-980f4d130664",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术三年级下册.pdf",
+          "name": "义务教育教科书·美术三年级下册.pdf",
+          "number": null,
+          "size": 8080409,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-4ace29915590",
+      "title": "义务教育教科书·美术二年级上册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术二年级上册.pdf",
+          "name": "义务教育教科书·美术二年级上册.pdf",
+          "number": null,
+          "size": 8609086,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-f0ac1856cc13",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术二年级下册.pdf",
+          "name": "义务教育教科书·美术二年级下册.pdf",
+          "number": null,
+          "size": 7880096,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-e326beff8352",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术五年级上册.pdf",
+          "name": "义务教育教科书·美术五年级上册.pdf",
+          "number": null,
+          "size": 8174851,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-3e4d1b9821e9",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术五年级下册.pdf",
+          "name": "义务教育教科书·美术五年级下册.pdf",
+          "number": null,
+          "size": 7928361,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-4ed005ad7855",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术六年级上册.pdf",
+          "name": "义务教育教科书·美术六年级上册.pdf",
+          "number": null,
+          "size": 8643461,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-6edd8a9339e0",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术六年级下册.pdf",
+          "name": "义务教育教科书·美术六年级下册.pdf",
+          "number": null,
+          "size": 8747277,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-ae3139d89681",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术四年级上册.pdf",
+          "name": "义务教育教科书·美术四年级上册.pdf",
+          "number": null,
+          "size": 8041134,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-c7575835f05c",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：常锐伦&欧京海）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：常锐伦&欧京海）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术四年级下册.pdf",
+          "name": "义务教育教科书·美术四年级下册.pdf",
+          "number": null,
+          "size": 8509436,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：常锐伦&欧京海）/义务教育教科书·美术四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%B8%B8%E9%94%90%E4%BC%A6%26%E6%AC%A7%E4%BA%AC%E6%B5%B7%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    }
+  ]
+}

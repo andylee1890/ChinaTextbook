@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/地理/湘教版-湖南教育出版社",
+  "name": "湘教版-湖南教育出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/地理/湘教版-湖南教育出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 5,
+  "splitBookCount": 0,
+  "posterCount": 5,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-2e90e1b08873",
+      "title": "普通高中教科书·地理必修 第一册",
+      "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理必修 第一册.pdf",
+      "directoryParts": [
+        "高中",
+        "地理",
+        "湘教版-湖南教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "地理",
+      "edition": "湘教版-湖南教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理必修 第一册.pdf",
+          "name": "普通高中教科书·地理必修 第一册.pdf",
+          "number": null,
+          "size": 31582754,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理必修 第一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-5dd7061c46bf",
+      "title": "普通高中教科书·地理必修 第二册",
+      "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理必修 第二册.pdf",
+      "directoryParts": [
+        "高中",
+        "地理",
+        "湘教版-湖南教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "地理",
+      "edition": "湘教版-湖南教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理必修 第二册.pdf",
+          "name": "普通高中教科书·地理必修 第二册.pdf",
+          "number": null,
+          "size": 26535316,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理必修 第二册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "1-dbfd49414941",
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修1 自然地理基础.pdf",
+      "directoryParts": [
+        "高中",
+        "地理",
+        "湘教版-湖南教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "地理",
+      "edition": "湘教版-湖南教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修1 自然地理基础.pdf",
+          "name": "普通高中教科书·地理选择性必修1 自然地理基础.pdf",
+          "number": null,
+          "size": 48909662,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%9F%BA%E7%A1%80.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%9F%BA%E7%A1%80.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修1 自然地理基础.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%9F%BA%E7%A1%80.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%9F%BA%E7%A1%80.png",
+        "width": 1400,
+        "height": 982
+      }
+    },
+    {
+      "id": "2-b8ac9d9ec5a4",
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修2 区域发展.pdf",
+      "directoryParts": [
+        "高中",
+        "地理",
+        "湘教版-湖南教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "地理",
+      "edition": "湘教版-湖南教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修2 区域发展.pdf",
+          "name": "普通高中教科书·地理选择性必修2 区域发展.pdf",
+          "number": null,
+          "size": 20004573,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%8C%BA%E5%9F%9F%E5%8F%91%E5%B1%95.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%8C%BA%E5%9F%9F%E5%8F%91%E5%B1%95.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修2 区域发展.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%8C%BA%E5%9F%9F%E5%8F%91%E5%B1%95.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%8C%BA%E5%9F%9F%E5%8F%91%E5%B1%95.png",
+        "width": 1400,
+        "height": 983
+      }
+    },
+    {
+      "id": "3-5934061469bd",
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修3 资源、环境与国家安全.pdf",
+      "directoryParts": [
+        "高中",
+        "地理",
+        "湘教版-湖南教育出版社"
+      ],
+      "stage": "高中",
+      "subject": "地理",
+      "edition": "湘教版-湖南教育出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修3 资源、环境与国家安全.pdf",
+          "name": "普通高中教科书·地理选择性必修3 资源、环境与国家安全.pdf",
+          "number": null,
+          "size": 33400515,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%B5%84%E6%BA%90%E3%80%81%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%B5%84%E6%BA%90%E3%80%81%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/地理/湘教版-湖南教育出版社/普通高中教科书·地理选择性必修3 资源、环境与国家安全.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%B5%84%E6%BA%90%E3%80%81%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%9C%B0%E7%90%86/%E6%B9%98%E6%95%99%E7%89%88-%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%B5%84%E6%BA%90%E3%80%81%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8.png",
+        "width": 1400,
+        "height": 982
+      }
+    }
+  ]
+}

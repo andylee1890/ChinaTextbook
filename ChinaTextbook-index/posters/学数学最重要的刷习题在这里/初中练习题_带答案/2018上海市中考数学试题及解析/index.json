@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析",
+  "name": "2018上海市中考数学试题及解析",
+  "indexPath": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/index.json",
+  "bookCount": 2,
+  "splitBookCount": 0,
+  "posterCount": 2,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "2018--1-5-1ba35183b67a",
+      "title": "2018上海市中考数学试题及解析-1-5",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/2018上海市中考数学试题及解析-1-5.pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "2018上海市中考数学试题及解析"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "2018上海市中考数学试题及解析",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/2018上海市中考数学试题及解析-1-5.pdf",
+          "name": "2018上海市中考数学试题及解析-1-5.pdf",
+          "number": null,
+          "size": 170643,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-1-5.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-1-5.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/2018上海市中考数学试题及解析-1-5.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-1-5.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-1-5.png",
+        "width": 992,
+        "height": 1400
+      }
+    },
+    {
+      "id": "2018--6-24-fe33089a3a2e",
+      "title": "2018上海市中考数学试题及解析-6-24",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/2018上海市中考数学试题及解析-6-24.pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "2018上海市中考数学试题及解析"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "2018上海市中考数学试题及解析",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/2018上海市中考数学试题及解析-6-24.pdf",
+          "name": "2018上海市中考数学试题及解析-6-24.pdf",
+          "number": null,
+          "size": 588911,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-6-24.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-6-24.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/2018上海市中考数学试题及解析/2018上海市中考数学试题及解析-6-24.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-6-24.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90/2018%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%E5%8F%8A%E8%A7%A3%E6%9E%90-6-24.png",
+        "width": 992,
+        "height": 1400
+      }
+    }
+  ]
+}

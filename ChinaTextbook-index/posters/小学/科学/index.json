@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/科学",
+  "name": "科学",
+  "indexPath": "ChinaTextbook-index/posters/小学/科学/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/index.json",
+  "bookCount": 154,
+  "splitBookCount": 1,
+  "posterCount": 154,
+  "childCount": 8,
+  "children": [
+    {
+      "path": "小学/科学/人教鄂教版",
+      "name": "人教鄂教版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/人教鄂教版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E4%BA%BA%E6%95%99%E9%84%82%E6%95%99%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E4%BA%BA%E6%95%99%E9%84%82%E6%95%99%E7%89%88/index.json",
+      "bookCount": 12,
+      "splitBookCount": 1,
+      "posterCount": 12,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/冀人版",
+      "name": "冀人版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/冀人版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E5%86%80%E4%BA%BA%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E5%86%80%E4%BA%BA%E7%89%88/index.json",
+      "bookCount": 24,
+      "splitBookCount": 0,
+      "posterCount": 24,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/大象社版",
+      "name": "大象社版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/大象社版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E5%A4%A7%E8%B1%A1%E7%A4%BE%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E5%A4%A7%E8%B1%A1%E7%A4%BE%E7%89%88/index.json",
+      "bookCount": 24,
+      "splitBookCount": 0,
+      "posterCount": 24,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/教科版",
+      "name": "教科版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/教科版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E6%95%99%E7%A7%91%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E6%95%99%E7%A7%91%E7%89%88/index.json",
+      "bookCount": 12,
+      "splitBookCount": 0,
+      "posterCount": 12,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/湘科版",
+      "name": "湘科版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/湘科版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E6%B9%98%E7%A7%91%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E6%B9%98%E7%A7%91%E7%89%88/index.json",
+      "bookCount": 24,
+      "splitBookCount": 0,
+      "posterCount": 24,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/粤教粤科版",
+      "name": "粤教粤科版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/粤教粤科版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E7%B2%A4%E6%95%99%E7%B2%A4%E7%A7%91%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E7%B2%A4%E6%95%99%E7%B2%A4%E7%A7%91%E7%89%88/index.json",
+      "bookCount": 12,
+      "splitBookCount": 0,
+      "posterCount": 12,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/苏教版",
+      "name": "苏教版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/苏教版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88/index.json",
+      "bookCount": 24,
+      "splitBookCount": 0,
+      "posterCount": 24,
+      "type": "directory"
+    },
+    {
+      "path": "小学/科学/青岛版",
+      "name": "青岛版",
+      "indexPath": "ChinaTextbook-index/posters/小学/科学/青岛版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%A7%91%E5%AD%A6/%E9%9D%92%E5%B2%9B%E7%89%88/index.json",
+      "bookCount": 22,
+      "splitBookCount": 0,
+      "posterCount": 22,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

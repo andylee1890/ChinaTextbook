@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/美术",
+  "name": "美术",
+  "indexPath": "ChinaTextbook-index/posters/高中/美术/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/index.json",
+  "bookCount": 42,
+  "splitBookCount": 3,
+  "posterCount": 42,
+  "childCount": 6,
+  "children": [
+    {
+      "path": "高中/美术/人教版-人民教育出版社",
+      "name": "人教版-人民教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/美术/人教版-人民教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 0,
+      "posterCount": 7,
+      "type": "directory"
+    },
+    {
+      "path": "高中/美术/人美版-人民美术出版社",
+      "name": "人美版-人民美术出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/美术/人美版-人民美术出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88-%E4%BA%BA%E6%B0%91%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88-%E4%BA%BA%E6%B0%91%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 0,
+      "posterCount": 7,
+      "type": "directory"
+    },
+    {
+      "path": "高中/美术/沪书画版-上海书画出版社",
+      "name": "沪书画版-上海书画出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/美术/沪书画版-上海书画出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B2%AA%E4%B9%A6%E7%94%BB%E7%89%88-%E4%B8%8A%E6%B5%B7%E4%B9%A6%E7%94%BB%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B2%AA%E4%B9%A6%E7%94%BB%E7%89%88-%E4%B8%8A%E6%B5%B7%E4%B9%A6%E7%94%BB%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 2,
+      "posterCount": 7,
+      "type": "directory"
+    },
+    {
+      "path": "高中/美术/湘美版-湖南美术出版社",
+      "name": "湘美版-湖南美术出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 0,
+      "posterCount": 7,
+      "type": "directory"
+    },
+    {
+      "path": "高中/美术/粤教版-广东教育出版社",
+      "name": "粤教版-广东教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/美术/粤教版-广东教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E7%B2%A4%E6%95%99%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E7%B2%A4%E6%95%99%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 0,
+      "posterCount": 7,
+      "type": "directory"
+    },
+    {
+      "path": "高中/美术/鲁美版-山东美术出版社",
+      "name": "鲁美版-山东美术出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/美术/鲁美版-山东美术出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E9%B2%81%E7%BE%8E%E7%89%88-%E5%B1%B1%E4%B8%9C%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E9%B2%81%E7%BE%8E%E7%89%88-%E5%B1%B1%E4%B8%9C%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 1,
+      "posterCount": 7,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

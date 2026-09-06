@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/生物学/北师大版-北京师范大学出版社",
+  "name": "北师大版-北京师范大学出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/生物学/北师大版-北京师范大学出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 5,
+  "splitBookCount": 5,
+  "posterCount": 5,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "1-8666723c2483",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修1 分子与细胞.pdf",
+      "directoryParts": [
+        "高中",
+        "生物学",
+        "北师大版-北京师范大学出版社"
+      ],
+      "stage": "高中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修1 分子与细胞.pdf.1",
+          "name": "普通高中教科书·生物学必修1 分子与细胞.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.pdf.1"
+        },
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修1 分子与细胞.pdf.2",
+          "name": "普通高中教科书·生物学必修1 分子与细胞.pdf.2",
+          "number": 2,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.pdf.2"
+        },
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修1 分子与细胞.pdf.3",
+          "name": "普通高中教科书·生物学必修1 分子与细胞.pdf.3",
+          "number": 3,
+          "size": 4041611,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.pdf.3",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.pdf.3"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修1 分子与细胞.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE1%20%E5%88%86%E5%AD%90%E4%B8%8E%E7%BB%86%E8%83%9E.png",
+        "width": 991,
+        "height": 1400
+      }
+    },
+    {
+      "id": "2-9205daad3d84",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修2 遗传与进化.pdf",
+      "directoryParts": [
+        "高中",
+        "生物学",
+        "北师大版-北京师范大学出版社"
+      ],
+      "stage": "高中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修2 遗传与进化.pdf.1",
+          "name": "普通高中教科书·生物学必修2 遗传与进化.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96.pdf.1"
+        },
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修2 遗传与进化.pdf.2",
+          "name": "普通高中教科书·生物学必修2 遗传与进化.pdf.2",
+          "number": 2,
+          "size": 34931527,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学必修2 遗传与进化.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E5%BF%85%E4%BF%AE2%20%E9%81%97%E4%BC%A0%E4%B8%8E%E8%BF%9B%E5%8C%96.png",
+        "width": 991,
+        "height": 1400
+      }
+    },
+    {
+      "id": "1-3b29abcad658",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修1 稳态与调节.pdf",
+      "directoryParts": [
+        "高中",
+        "生物学",
+        "北师大版-北京师范大学出版社"
+      ],
+      "stage": "高中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修1 稳态与调节.pdf.1",
+          "name": "普通高中教科书·生物学选择性必修1 稳态与调节.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82.pdf.1"
+        },
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修1 稳态与调节.pdf.2",
+          "name": "普通高中教科书·生物学选择性必修1 稳态与调节.pdf.2",
+          "number": 2,
+          "size": 32835722,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修1 稳态与调节.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%A8%B3%E6%80%81%E4%B8%8E%E8%B0%83%E8%8A%82.png",
+        "width": 993,
+        "height": 1400
+      }
+    },
+    {
+      "id": "2-eec204d8fffa",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修2 生物与环境.pdf",
+      "directoryParts": [
+        "高中",
+        "生物学",
+        "北师大版-北京师范大学出版社"
+      ],
+      "stage": "高中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修2 生物与环境.pdf.1",
+          "name": "普通高中教科书·生物学选择性必修2 生物与环境.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83.pdf.1"
+        },
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修2 生物与环境.pdf.2",
+          "name": "普通高中教科书·生物学选择性必修2 生物与环境.pdf.2",
+          "number": 2,
+          "size": 27305776,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修2 生物与环境.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E7%94%9F%E7%89%A9%E4%B8%8E%E7%8E%AF%E5%A2%83.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "3-e8369f981bb4",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修3 生物技术与工程.pdf",
+      "directoryParts": [
+        "高中",
+        "生物学",
+        "北师大版-北京师范大学出版社"
+      ],
+      "stage": "高中",
+      "subject": "生物学",
+      "edition": "北师大版-北京师范大学出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修3 生物技术与工程.pdf.1",
+          "name": "普通高中教科书·生物学选择性必修3 生物技术与工程.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B.pdf.1"
+        },
+        {
+          "path": "高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修3 生物技术与工程.pdf.2",
+          "name": "普通高中教科书·生物学选择性必修3 生物技术与工程.pdf.2",
+          "number": 2,
+          "size": 28625536,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/生物学/北师大版-北京师范大学出版社/普通高中教科书·生物学选择性必修3 生物技术与工程.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88-%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%94%9F%E7%89%A9%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B7%A5%E7%A8%8B.png",
+        "width": 990,
+        "height": 1400
+      }
+    }
+  ]
+}

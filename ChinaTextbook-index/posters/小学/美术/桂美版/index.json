@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/美术/桂美版",
+  "name": "桂美版",
+  "indexPath": "ChinaTextbook-index/posters/小学/美术/桂美版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-281f2b429bf3",
+      "title": "义务教育教科书·美术一年级上册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术一年级上册.pdf",
+          "name": "义务教育教科书·美术一年级上册.pdf",
+          "number": null,
+          "size": 17028495,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-859f90c3fcca",
+      "title": "义务教育教科书·美术一年级下册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术一年级下册.pdf",
+          "name": "义务教育教科书·美术一年级下册.pdf",
+          "number": null,
+          "size": 17619894,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-c33af49b4b1e",
+      "title": "义务教育教科书·美术三年级上册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术三年级上册.pdf",
+          "name": "义务教育教科书·美术三年级上册.pdf",
+          "number": null,
+          "size": 18699362,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-d9ffaed6efac",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术三年级下册.pdf",
+          "name": "义务教育教科书·美术三年级下册.pdf",
+          "number": null,
+          "size": 20316087,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-dd00856c5f7e",
+      "title": "义务教育教科书·美术二年级上册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术二年级上册.pdf",
+          "name": "义务教育教科书·美术二年级上册.pdf",
+          "number": null,
+          "size": 19826131,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-3a8dc2c65302",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术二年级下册.pdf",
+          "name": "义务教育教科书·美术二年级下册.pdf",
+          "number": null,
+          "size": 18808136,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-628405861d46",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术五年级上册.pdf",
+          "name": "义务教育教科书·美术五年级上册.pdf",
+          "number": null,
+          "size": 21046855,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-1c7742056c37",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术五年级下册.pdf",
+          "name": "义务教育教科书·美术五年级下册.pdf",
+          "number": null,
+          "size": 19493138,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-f56c0c79ab4c",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术六年级上册.pdf",
+          "name": "义务教育教科书·美术六年级上册.pdf",
+          "number": null,
+          "size": 23040419,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-49e5b960d9ba",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术六年级下册.pdf",
+          "name": "义务教育教科书·美术六年级下册.pdf",
+          "number": null,
+          "size": 20586108,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-f0b36726424a",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术四年级上册.pdf",
+          "name": "义务教育教科书·美术四年级上册.pdf",
+          "number": null,
+          "size": 19057868,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "book-43ff4f3f1f3d",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学/美术/桂美版/义务教育教科书·美术四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "桂美版"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "桂美版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/桂美版/义务教育教科书·美术四年级下册.pdf",
+          "name": "义务教育教科书·美术四年级下册.pdf",
+          "number": null,
+          "size": 21560005,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/桂美版/义务教育教科书·美术四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E6%A1%82%E7%BE%8E%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 991
+      }
+    }
+  ]
+}

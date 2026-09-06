@@ -1,0 +1,438 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/音乐/人音版-人民音乐出版社",
+  "name": "人音版-人民音乐出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 12,
+  "splitBookCount": 1,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "1-5bdea59722f4",
+      "title": "普通高中教科书·音乐必修1 音乐鉴赏",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修1 音乐鉴赏.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修1 音乐鉴赏.pdf.1",
+          "name": "普通高中教科书·音乐必修1 音乐鉴赏.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.pdf.1"
+        },
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修1 音乐鉴赏.pdf.2",
+          "name": "普通高中教科书·音乐必修1 音乐鉴赏.pdf.2",
+          "number": 2,
+          "size": 15813095,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.pdf.2"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修1 音乐鉴赏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.png",
+        "width": 1400,
+        "height": 990
+      }
+    },
+    {
+      "id": "2-35ef291bb35d",
+      "title": "普通高中教科书·音乐必修2 歌唱",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修2 歌唱.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修2 歌唱.pdf",
+          "name": "普通高中教科书·音乐必修2 歌唱.pdf",
+          "number": null,
+          "size": 38148638,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修2 歌唱.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.png",
+        "width": 1400,
+        "height": 996
+      }
+    },
+    {
+      "id": "3-f5d3e73cf399",
+      "title": "普通高中教科书·音乐必修3 演奏",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修3 演奏.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修3 演奏.pdf",
+          "name": "普通高中教科书·音乐必修3 演奏.pdf",
+          "number": null,
+          "size": 31916065,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修3 演奏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.png",
+        "width": 1400,
+        "height": 996
+      }
+    },
+    {
+      "id": "4-54988e40e15a",
+      "title": "普通高中教科书·音乐必修4 音乐编创",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修4 音乐编创.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修4 音乐编创.pdf",
+          "name": "普通高中教科书·音乐必修4 音乐编创.pdf",
+          "number": null,
+          "size": 51017604,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修4 音乐编创.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "5-291bdb622c7c",
+      "title": "普通高中教科书·音乐必修5 音乐与舞蹈",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修5 音乐与舞蹈.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修5 音乐与舞蹈.pdf",
+          "name": "普通高中教科书·音乐必修5 音乐与舞蹈.pdf",
+          "number": null,
+          "size": 35392262,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修5 音乐与舞蹈.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.png",
+        "width": 1400,
+        "height": 999
+      }
+    },
+    {
+      "id": "6-0eecdeb1591a",
+      "title": "普通高中教科书·音乐必修6 音乐与戏剧",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+          "name": "普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+          "number": null,
+          "size": 52126768,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐必修6 音乐与戏剧.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.png",
+        "width": 1400,
+        "height": 996
+      }
+    },
+    {
+      "id": "1-084f401da5b9",
+      "title": "普通高中教科书·音乐选择性必修1 合唱",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修1 合唱.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修1 合唱.pdf",
+          "name": "普通高中教科书·音乐选择性必修1 合唱.pdf",
+          "number": null,
+          "size": 8469516,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修1 合唱.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.png",
+        "width": 1400,
+        "height": 1005
+      }
+    },
+    {
+      "id": "2-92aac0a730ac",
+      "title": "普通高中教科书·音乐选择性必修2 合奏",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修2 合奏.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修2 合奏.pdf",
+          "name": "普通高中教科书·音乐选择性必修2 合奏.pdf",
+          "number": null,
+          "size": 14535258,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修2 合奏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.png",
+        "width": 1400,
+        "height": 1005
+      }
+    },
+    {
+      "id": "3-745fa73303d7",
+      "title": "普通高中教科书·音乐选择性必修3 舞蹈表演",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+          "name": "普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+          "number": null,
+          "size": 13042274,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修3 舞蹈表演.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.png",
+        "width": 1400,
+        "height": 1005
+      }
+    },
+    {
+      "id": "4-4918d232b79f",
+      "title": "普通高中教科书·音乐选择性必修4 戏剧表演",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修4 戏剧表演.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修4 戏剧表演.pdf",
+          "name": "普通高中教科书·音乐选择性必修4 戏剧表演.pdf",
+          "number": null,
+          "size": 9305809,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修4 戏剧表演.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.png",
+        "width": 1400,
+        "height": 1005
+      }
+    },
+    {
+      "id": "5-031dca01c12e",
+      "title": "普通高中教科书·音乐选择性必修5 音乐基础理论",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+          "name": "普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+          "number": null,
+          "size": 31435423,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修5 音乐基础理论.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "6-0864ad338bb1",
+      "title": "普通高中教科书·音乐选择性必修6 视唱练耳",
+      "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "人音版-人民音乐出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "人音版-人民音乐出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+          "name": "普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+          "number": null,
+          "size": 14551412,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/人音版-人民音乐出版社/普通高中教科书·音乐选择性必修6 视唱练耳.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88-%E4%BA%BA%E6%B0%91%E9%9F%B3%E4%B9%90%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.png",
+        "width": 1400,
+        "height": 1005
+      }
+    }
+  ]
+}

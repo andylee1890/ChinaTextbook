@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/艺术",
+  "name": "艺术",
+  "indexPath": "ChinaTextbook-index/posters/小学/艺术/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/index.json",
+  "bookCount": 24,
+  "splitBookCount": 0,
+  "posterCount": 24,
+  "childCount": 2,
+  "children": [
+    {
+      "path": "小学/艺术/教科版",
+      "name": "教科版",
+      "indexPath": "ChinaTextbook-index/posters/小学/艺术/教科版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/%E6%95%99%E7%A7%91%E7%89%88/index.json",
+      "bookCount": 12,
+      "splitBookCount": 0,
+      "posterCount": 12,
+      "type": "directory"
+    },
+    {
+      "path": "小学/艺术/鄂教版",
+      "name": "鄂教版",
+      "indexPath": "ChinaTextbook-index/posters/小学/艺术/鄂教版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/%E9%84%82%E6%95%99%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%89%BA%E6%9C%AF/%E9%84%82%E6%95%99%E7%89%88/index.json",
+      "bookCount": 12,
+      "splitBookCount": 0,
+      "posterCount": 12,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

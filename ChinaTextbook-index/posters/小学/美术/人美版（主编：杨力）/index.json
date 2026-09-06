@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/美术/人美版（主编：杨力）",
+  "name": "人美版（主编：杨力）",
+  "indexPath": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-d9e076866dc9",
+      "title": "义务教育教科书·美术一年级上册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术一年级上册.pdf",
+          "name": "义务教育教科书·美术一年级上册.pdf",
+          "number": null,
+          "size": 11255244,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-efadbc160d4b",
+      "title": "义务教育教科书·美术一年级下册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术一年级下册.pdf",
+          "name": "义务教育教科书·美术一年级下册.pdf",
+          "number": null,
+          "size": 12851631,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-8a7bccd11864",
+      "title": "义务教育教科书·美术三年级上册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术三年级上册.pdf",
+          "name": "义务教育教科书·美术三年级上册.pdf",
+          "number": null,
+          "size": 7871842,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-716844265de7",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术三年级下册.pdf",
+          "name": "义务教育教科书·美术三年级下册.pdf",
+          "number": null,
+          "size": 8828975,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-4e7c536d5a54",
+      "title": "义务教育教科书·美术二年级上册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术二年级上册.pdf",
+          "name": "义务教育教科书·美术二年级上册.pdf",
+          "number": null,
+          "size": 8288091,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-8e4afcd70281",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术二年级下册.pdf",
+          "name": "义务教育教科书·美术二年级下册.pdf",
+          "number": null,
+          "size": 8377958,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-e476ca93a107",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术五年级上册.pdf",
+          "name": "义务教育教科书·美术五年级上册.pdf",
+          "number": null,
+          "size": 7640317,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-cfef1b1e4099",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术五年级下册.pdf",
+          "name": "义务教育教科书·美术五年级下册.pdf",
+          "number": null,
+          "size": 9140033,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-18b6512f8be7",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术六年级上册.pdf",
+          "name": "义务教育教科书·美术六年级上册.pdf",
+          "number": null,
+          "size": 9018403,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-28c1950ad3b5",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术六年级下册.pdf",
+          "name": "义务教育教科书·美术六年级下册.pdf",
+          "number": null,
+          "size": 8650721,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-635164c8fa17",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术四年级上册.pdf",
+          "name": "义务教育教科书·美术四年级上册.pdf",
+          "number": null,
+          "size": 8347572,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "book-fce4fef41573",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "美术",
+        "人美版（主编：杨力）"
+      ],
+      "stage": "小学",
+      "subject": "美术",
+      "edition": "人美版（主编：杨力）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/美术/人美版（主编：杨力）/义务教育教科书·美术四年级下册.pdf",
+          "name": "义务教育教科书·美术四年级下册.pdf",
+          "number": null,
+          "size": 9172575,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/美术/人美版（主编：杨力）/义务教育教科书·美术四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E7%BE%8E%E6%9C%AF/%E4%BA%BA%E7%BE%8E%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E6%9D%A8%E5%8A%9B%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 984
+      }
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/音乐/接力社版",
+  "name": "接力社版",
+  "indexPath": "ChinaTextbook-index/posters/小学/音乐/接力社版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-60e77153f191",
+      "title": "义务教育教科书·音乐一年级上册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐一年级上册.pdf",
+          "name": "义务教育教科书·音乐一年级上册.pdf",
+          "number": null,
+          "size": 21889083,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-16af9cbf77af",
+      "title": "义务教育教科书·音乐一年级下册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐一年级下册.pdf",
+          "name": "义务教育教科书·音乐一年级下册.pdf",
+          "number": null,
+          "size": 15154373,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-66a0475b0873",
+      "title": "义务教育教科书·音乐三年级上册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐三年级上册.pdf",
+          "name": "义务教育教科书·音乐三年级上册.pdf",
+          "number": null,
+          "size": 20880291,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-09278221237e",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐三年级下册.pdf",
+          "name": "义务教育教科书·音乐三年级下册.pdf",
+          "number": null,
+          "size": 30433757,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-4484fb09f020",
+      "title": "义务教育教科书·音乐二年级上册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐二年级上册.pdf",
+          "name": "义务教育教科书·音乐二年级上册.pdf",
+          "number": null,
+          "size": 15168832,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-57e6400b6894",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐二年级下册.pdf",
+          "name": "义务教育教科书·音乐二年级下册.pdf",
+          "number": null,
+          "size": 12064888,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-b021bb79bd58",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐五年级上册.pdf",
+          "name": "义务教育教科书·音乐五年级上册.pdf",
+          "number": null,
+          "size": 16262628,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-27eabe6883f5",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐五年级下册.pdf",
+          "name": "义务教育教科书·音乐五年级下册.pdf",
+          "number": null,
+          "size": 21364407,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-36db99ff1f4a",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐六年级上册.pdf",
+          "name": "义务教育教科书·音乐六年级上册.pdf",
+          "number": null,
+          "size": 16085944,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-4f751d2f99d7",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐六年级下册.pdf",
+          "name": "义务教育教科书·音乐六年级下册.pdf",
+          "number": null,
+          "size": 13964242,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-3c6739db753a",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐四年级上册.pdf",
+          "name": "义务教育教科书·音乐四年级上册.pdf",
+          "number": null,
+          "size": 18824302,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-be1a264f1c48",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学/音乐/接力社版/义务教育教科书·音乐四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "接力社版"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "接力社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/接力社版/义务教育教科书·音乐四年级下册.pdf",
+          "name": "义务教育教科书·音乐四年级下册.pdf",
+          "number": null,
+          "size": 20367292,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/接力社版/义务教育教科书·音乐四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E6%8E%A5%E5%8A%9B%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 990,
+        "height": 1400
+      }
+    }
+  ]
+}

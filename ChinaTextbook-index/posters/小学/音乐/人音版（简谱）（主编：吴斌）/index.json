@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/音乐/人音版（简谱）（主编：吴斌）",
+  "name": "人音版（简谱）（主编：吴斌）",
+  "indexPath": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-4bdc77c60dd7",
+      "title": "义务教育教科书·音乐（简谱）一年级上册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）一年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）一年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）一年级上册.pdf",
+          "number": null,
+          "size": 27650479,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）一年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-50937938a039",
+      "title": "义务教育教科书·音乐（简谱）一年级下册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）一年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）一年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）一年级下册.pdf",
+          "number": null,
+          "size": 28131206,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）一年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-66e2253aa5ed",
+      "title": "义务教育教科书·音乐（简谱）三年级上册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）三年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）三年级上册.pdf",
+          "number": null,
+          "size": 25721432,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-6b6ae4d9b03e",
+      "title": "义务教育教科书·音乐（简谱）三年级下册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）三年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）三年级下册.pdf",
+          "number": null,
+          "size": 32186817,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-76701fc037e0",
+      "title": "义务教育教科书·音乐（简谱）二年级上册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）二年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）二年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）二年级上册.pdf",
+          "number": null,
+          "size": 29108406,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）二年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-658e27f982ee",
+      "title": "义务教育教科书·音乐（简谱）二年级下册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）二年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）二年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）二年级下册.pdf",
+          "number": null,
+          "size": 29802731,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）二年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-2e9ddf102f98",
+      "title": "义务教育教科书·音乐（简谱）五年级上册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）五年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）五年级上册.pdf",
+          "number": null,
+          "size": 24434881,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-96d2a54bbc12",
+      "title": "义务教育教科书·音乐（简谱）五年级下册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）五年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）五年级下册.pdf",
+          "number": null,
+          "size": 29518268,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-2e54de40390a",
+      "title": "义务教育教科书·音乐（简谱）六年级上册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）六年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）六年级上册.pdf",
+          "number": null,
+          "size": 27695794,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-c540cb5af23e",
+      "title": "义务教育教科书·音乐（简谱）六年级下册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）六年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）六年级下册.pdf",
+          "number": null,
+          "size": 26382943,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-814298079a89",
+      "title": "义务教育教科书·音乐（简谱）四年级上册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）四年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）四年级上册.pdf",
+          "number": null,
+          "size": 28798792,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "book-6f71aaa5ec58",
+      "title": "义务教育教科书·音乐（简谱）四年级下册",
+      "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "音乐",
+        "人音版（简谱）（主编：吴斌）"
+      ],
+      "stage": "小学",
+      "subject": "音乐",
+      "edition": "人音版（简谱）（主编：吴斌）",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）四年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）四年级下册.pdf",
+          "number": null,
+          "size": 31278045,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/音乐/人音版（简谱）（主编：吴斌）/义务教育教科书·音乐（简谱）四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%9F%B3%E4%B9%90/%E4%BA%BA%E9%9F%B3%E7%89%88%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%96%8C%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 1003
+      }
+    }
+  ]
+}

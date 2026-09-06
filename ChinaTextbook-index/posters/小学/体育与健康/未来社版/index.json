@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/体育与健康/未来社版",
+  "name": "未来社版",
+  "indexPath": "ChinaTextbook-index/posters/小学/体育与健康/未来社版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/index.json",
+  "bookCount": 3,
+  "splitBookCount": 3,
+  "posterCount": 3,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-649eb75ca7e2",
+      "title": "义务教育教科书·体育与健康教师用书水平一水平一",
+      "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "未来社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "未来社版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.1",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.1"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.2",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.2",
+          "number": 2,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.2"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.3",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.3",
+          "number": 3,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.3",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.3"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.4",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.4",
+          "number": 4,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.4",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.4"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.5",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.5",
+          "number": 5,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.5",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.5"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.6",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.6",
+          "number": 6,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.6",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.6"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.7",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.7",
+          "number": 7,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.7",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.7"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.pdf.8",
+          "name": "义务教育教科书·体育与健康教师用书水平一水平一.pdf.8",
+          "number": 8,
+          "size": 33380241,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.8",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.pdf.8"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平一水平一.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%80%E6%B0%B4%E5%B9%B3%E4%B8%80.png",
+        "width": 1400,
+        "height": 943
+      }
+    },
+    {
+      "id": "book-d4b6128eea8a",
+      "title": "义务教育教科书·体育与健康教师用书水平三水平三",
+      "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "未来社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "未来社版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.1",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.1"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.2",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.2",
+          "number": 2,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.2"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.3",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.3",
+          "number": 3,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.3",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.3"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.4",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.4",
+          "number": 4,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.4",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.4"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.5",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.5",
+          "number": 5,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.5",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.5"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.6",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.6",
+          "number": 6,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.6",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.6"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.7",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.7",
+          "number": 7,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.7",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.7"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.8",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.8",
+          "number": 8,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.8",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.8"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.9",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.9",
+          "number": 9,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.9",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.9"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.10",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.10",
+          "number": 10,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.10",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.10"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.pdf.11",
+          "name": "义务教育教科书·体育与健康教师用书水平三水平三.pdf.11",
+          "number": 11,
+          "size": 7632155,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.11",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.pdf.11"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平三水平三.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%B0%B4%E5%B9%B3%E4%B8%89.png",
+        "width": 1400,
+        "height": 951
+      }
+    },
+    {
+      "id": "book-d1465a7e7d64",
+      "title": "义务教育教科书·体育与健康教师用书水平二水平二",
+      "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "未来社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "未来社版",
+      "grade": null,
+      "isSplit": true,
+      "mergeRequired": true,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.1",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.1",
+          "number": 1,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.1",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.1"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.2",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.2",
+          "number": 2,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.2",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.2"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.3",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.3",
+          "number": 3,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.3",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.3"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.4",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.4",
+          "number": 4,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.4",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.4"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.5",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.5",
+          "number": 5,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.5",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.5"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.6",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.6",
+          "number": 6,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.6",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.6"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.7",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.7",
+          "number": 7,
+          "size": 36700160,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.7",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.7"
+        },
+        {
+          "path": "小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.pdf.8",
+          "name": "义务教育教科书·体育与健康教师用书水平二水平二.pdf.8",
+          "number": 8,
+          "size": 25367875,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.8",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.pdf.8"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/未来社版/义务教育教科书·体育与健康教师用书水平二水平二.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E6%9C%AA%E6%9D%A5%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E6%B0%B4%E5%B9%B3%E4%BA%8C%E6%B0%B4%E5%B9%B3%E4%BA%8C.png",
+        "width": 1400,
+        "height": 952
+      }
+    }
+  ]
+}

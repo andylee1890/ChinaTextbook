@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/思想政治",
+  "name": "思想政治",
+  "indexPath": "ChinaTextbook-index/posters/高中/思想政治/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/index.json",
+  "bookCount": 8,
+  "splitBookCount": 0,
+  "posterCount": 8,
+  "childCount": 1,
+  "children": [
+    {
+      "path": "高中/思想政治/统编版-人民教育出版社",
+      "name": "统编版-人民教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/思想政治/统编版-人民教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

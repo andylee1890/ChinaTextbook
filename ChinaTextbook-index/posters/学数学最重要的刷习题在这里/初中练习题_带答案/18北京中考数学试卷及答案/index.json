@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案",
+  "name": "18北京中考数学试卷及答案",
+  "indexPath": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/index.json",
+  "bookCount": 3,
+  "splitBookCount": 0,
+  "posterCount": 3,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "18-64143e928fec",
+      "title": "18北京中考数学试卷",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/18北京中考数学试卷.pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "18北京中考数学试卷及答案"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "18北京中考数学试卷及答案",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/18北京中考数学试卷.pdf",
+          "name": "18北京中考数学试卷.pdf",
+          "number": null,
+          "size": 2338814,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/18北京中考数学试卷.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7.png",
+        "width": 1157,
+        "height": 1400
+      }
+    },
+    {
+      "id": "18-143f90bc4054",
+      "title": "18北京中考数学试卷答案",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/18北京中考数学试卷答案.pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "18北京中考数学试卷及答案"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "18北京中考数学试卷及答案",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/18北京中考数学试卷答案.pdf",
+          "name": "18北京中考数学试卷答案.pdf",
+          "number": null,
+          "size": 394523,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/18北京中考数学试卷答案.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "2018-fc8767ecef45",
+      "title": "2018北京市中考数学试题(含答案解析版)",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/2018北京市中考数学试题(含答案解析版).pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "18北京中考数学试卷及答案"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "18北京中考数学试卷及答案",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/2018北京市中考数学试题(含答案解析版).pdf",
+          "name": "2018北京市中考数学试题(含答案解析版).pdf",
+          "number": null,
+          "size": 2008393,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/2018%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%28%E5%90%AB%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%E7%89%88%29.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/2018%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%28%E5%90%AB%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%E7%89%88%29.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/18北京中考数学试卷及答案/2018北京市中考数学试题(含答案解析版).png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/2018%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%28%E5%90%AB%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%E7%89%88%29.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/18%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/2018%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E8%AF%95%E9%A2%98%28%E5%90%AB%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%E7%89%88%29.png",
+        "width": 991,
+        "height": 1400
+      }
+    }
+  ]
+}

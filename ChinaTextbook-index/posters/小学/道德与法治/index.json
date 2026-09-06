@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/道德与法治",
+  "name": "道德与法治",
+  "indexPath": "ChinaTextbook-index/posters/小学/道德与法治/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/index.json",
+  "bookCount": 14,
+  "splitBookCount": 2,
+  "posterCount": 14,
+  "childCount": 1,
+  "children": [
+    {
+      "path": "小学/道德与法治/统编版",
+      "name": "统编版",
+      "indexPath": "ChinaTextbook-index/posters/小学/道德与法治/统编版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E7%BB%9F%E7%BC%96%E7%89%88/index.json",
+      "bookCount": 14,
+      "splitBookCount": 2,
+      "posterCount": 14,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

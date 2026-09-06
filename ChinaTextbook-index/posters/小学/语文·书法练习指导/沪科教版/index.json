@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/语文·书法练习指导/沪科教版",
+  "name": "沪科教版",
+  "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/index.json",
+  "bookCount": 8,
+  "splitBookCount": 0,
+  "posterCount": 8,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-b49c9213f675",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）三年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）三年级上册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）三年级上册.pdf",
+          "number": null,
+          "size": 8722414,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）三年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-3ae54cbf42f5",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）三年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）三年级下册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）三年级下册.pdf",
+          "number": null,
+          "size": 7364650,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）三年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-2dfdae50f37c",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）五年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）五年级上册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）五年级上册.pdf",
+          "number": null,
+          "size": 7405004,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）五年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-58ed67e66045",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）五年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）五年级下册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）五年级下册.pdf",
+          "number": null,
+          "size": 9012952,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）五年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-7fafe491d9fe",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）六年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）六年级上册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）六年级上册.pdf",
+          "number": null,
+          "size": 7164919,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）六年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-a1f7050a89be",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）六年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）六年级下册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）六年级下册.pdf",
+          "number": null,
+          "size": 7702821,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）六年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-320f79b5efb5",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）四年级上册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）四年级上册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）四年级上册.pdf",
+          "number": null,
+          "size": 7291797,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）四年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    },
+    {
+      "id": "book-d9d77e8b5aea",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）四年级下册.pdf",
+      "directoryParts": [
+        "小学",
+        "语文·书法练习指导",
+        "沪科教版"
+      ],
+      "stage": "小学",
+      "subject": "语文·书法练习指导",
+      "edition": "沪科教版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）四年级下册.pdf",
+          "name": "义务教育三至六年级·书法练习指导（实验）四年级下册.pdf",
+          "number": null,
+          "size": 7421764,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/义务教育三至六年级·书法练习指导（实验）四年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%89%E8%87%B3%E5%85%AD%E5%B9%B4%E7%BA%A7%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 501
+      }
+    }
+  ]
+}

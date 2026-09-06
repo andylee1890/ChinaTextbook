@@ -1,0 +1,4 @@
+# Local regeneration utility and Python bytecode are not distribution assets.
+generate_index_and_posters.py
+__pycache__/
+source-tree.txt

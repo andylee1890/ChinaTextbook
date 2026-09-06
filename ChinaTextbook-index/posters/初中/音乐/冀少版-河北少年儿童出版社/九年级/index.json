@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "初中/音乐/冀少版-河北少年儿童出版社/九年级",
+  "name": "九年级",
+  "indexPath": "ChinaTextbook-index/posters/初中/音乐/冀少版-河北少年儿童出版社/九年级/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/index.json",
+  "bookCount": 2,
+  "splitBookCount": 0,
+  "posterCount": 2,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-511ba24e482c",
+      "title": "义务教育教科书·音乐（简谱）九年级上册",
+      "path": "初中/音乐/冀少版-河北少年儿童出版社/九年级/义务教育教科书·音乐（简谱）九年级上册.pdf",
+      "directoryParts": [
+        "初中",
+        "音乐",
+        "冀少版-河北少年儿童出版社",
+        "九年级"
+      ],
+      "stage": "初中",
+      "subject": "音乐",
+      "edition": "冀少版-河北少年儿童出版社",
+      "grade": "九年级",
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "初中/音乐/冀少版-河北少年儿童出版社/九年级/义务教育教科书·音乐（简谱）九年级上册.pdf",
+          "name": "义务教育教科书·音乐（简谱）九年级上册.pdf",
+          "number": null,
+          "size": 19670340,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/初中/音乐/冀少版-河北少年儿童出版社/九年级/义务教育教科书·音乐（简谱）九年级上册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.png",
+        "width": 1400,
+        "height": 980
+      }
+    },
+    {
+      "id": "book-65df7662bbd2",
+      "title": "义务教育教科书·音乐（简谱）九年级下册",
+      "path": "初中/音乐/冀少版-河北少年儿童出版社/九年级/义务教育教科书·音乐（简谱）九年级下册.pdf",
+      "directoryParts": [
+        "初中",
+        "音乐",
+        "冀少版-河北少年儿童出版社",
+        "九年级"
+      ],
+      "stage": "初中",
+      "subject": "音乐",
+      "edition": "冀少版-河北少年儿童出版社",
+      "grade": "九年级",
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "初中/音乐/冀少版-河北少年儿童出版社/九年级/义务教育教科书·音乐（简谱）九年级下册.pdf",
+          "name": "义务教育教科书·音乐（简谱）九年级下册.pdf",
+          "number": null,
+          "size": 14760289,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/初中/音乐/冀少版-河北少年儿童出版社/九年级/义务教育教科书·音乐（简谱）九年级下册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E5%86%80%E5%B0%91%E7%89%88-%E6%B2%B3%E5%8C%97%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%EF%BC%88%E7%AE%80%E8%B0%B1%EF%BC%89%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.png",
+        "width": 1400,
+        "height": 981
+      }
+    }
+  ]
+}

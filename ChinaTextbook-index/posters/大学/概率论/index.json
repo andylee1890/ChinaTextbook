@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "大学/概率论",
+  "name": "概率论",
+  "indexPath": "ChinaTextbook-index/posters/大学/概率论/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/index.json",
+  "bookCount": 1,
+  "splitBookCount": 0,
+  "posterCount": 1,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-f34fc5ead60c",
+      "title": "概率论与数理统计(浙大四版)",
+      "path": "大学/概率论/概率论与数理统计(浙大四版).pdf",
+      "directoryParts": [
+        "大学",
+        "概率论"
+      ],
+      "stage": "大学",
+      "subject": "概率论",
+      "edition": null,
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "大学/概率论/概率论与数理统计(浙大四版).pdf",
+          "name": "概率论与数理统计(浙大四版).pdf",
+          "number": null,
+          "size": 34288061,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%28%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88%29.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%28%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88%29.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/大学/概率论/概率论与数理统计(浙大四版).png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%28%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88%29.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%A4%A7%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%28%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88%29.png",
+        "width": 989,
+        "height": 1400
+      }
+    }
+  ]
+}

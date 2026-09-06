@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/通用技术",
+  "name": "通用技术",
+  "indexPath": "ChinaTextbook-index/posters/高中/通用技术/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/index.json",
+  "bookCount": 59,
+  "splitBookCount": 17,
+  "posterCount": 59,
+  "childCount": 5,
+  "children": [
+    {
+      "path": "高中/通用技术/人教版-人民教育出版社",
+      "name": "人教版-人民教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/通用技术/人教版-人民教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 7,
+      "splitBookCount": 0,
+      "posterCount": 7,
+      "type": "directory"
+    },
+    {
+      "path": "高中/通用技术/地质社版-地质出版社",
+      "name": "地质社版-地质出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/通用技术/地质社版-地质出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E5%9C%B0%E8%B4%A8%E7%A4%BE%E7%89%88-%E5%9C%B0%E8%B4%A8%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E5%9C%B0%E8%B4%A8%E7%A4%BE%E7%89%88-%E5%9C%B0%E8%B4%A8%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 13,
+      "splitBookCount": 13,
+      "posterCount": 13,
+      "type": "directory"
+    },
+    {
+      "path": "高中/通用技术/粤教粤科版-广东教育出版社、广东科技出版社",
+      "name": "粤教粤科版-广东教育出版社、广东科技出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/通用技术/粤教粤科版-广东教育出版社、广东科技出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E7%B2%A4%E6%95%99%E7%B2%A4%E7%A7%91%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E5%B9%BF%E4%B8%9C%E7%A7%91%E6%8A%80%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E7%B2%A4%E6%95%99%E7%B2%A4%E7%A7%91%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E5%B9%BF%E4%B8%9C%E7%A7%91%E6%8A%80%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 13,
+      "splitBookCount": 0,
+      "posterCount": 13,
+      "type": "directory"
+    },
+    {
+      "path": "高中/通用技术/苏教版-江苏凤凰教育出版社",
+      "name": "苏教版-江苏凤凰教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/通用技术/苏教版-江苏凤凰教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E8%8B%8F%E6%95%99%E7%89%88-%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E8%8B%8F%E6%95%99%E7%89%88-%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 13,
+      "splitBookCount": 0,
+      "posterCount": 13,
+      "type": "directory"
+    },
+    {
+      "path": "高中/通用技术/豫科版-河南科学技术出版社",
+      "name": "豫科版-河南科学技术出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/通用技术/豫科版-河南科学技术出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E8%B1%AB%E7%A7%91%E7%89%88-%E6%B2%B3%E5%8D%97%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/%E8%B1%AB%E7%A7%91%E7%89%88-%E6%B2%B3%E5%8D%97%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 13,
+      "splitBookCount": 4,
+      "posterCount": 13,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社",
+  "name": "粤教花城版-广东教育出版社、花城出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 12,
+  "splitBookCount": 0,
+  "posterCount": 12,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "1-f64b1c6a71b1",
+      "title": "普通高中教科书·音乐必修1 音乐鉴赏",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修1 音乐鉴赏.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修1 音乐鉴赏.pdf",
+          "name": "普通高中教科书·音乐必修1 音乐鉴赏.pdf",
+          "number": null,
+          "size": 5812325,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修1 音乐鉴赏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE1%20%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F.png",
+        "width": 1400,
+        "height": 992
+      }
+    },
+    {
+      "id": "2-6809de6f5b5d",
+      "title": "普通高中教科书·音乐必修2 歌唱",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修2 歌唱.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修2 歌唱.pdf",
+          "name": "普通高中教科书·音乐必修2 歌唱.pdf",
+          "number": null,
+          "size": 19743714,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修2 歌唱.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE2%20%E6%AD%8C%E5%94%B1.png",
+        "width": 1400,
+        "height": 989
+      }
+    },
+    {
+      "id": "3-c69643f89de0",
+      "title": "普通高中教科书·音乐必修3 演奏",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修3 演奏.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修3 演奏.pdf",
+          "name": "普通高中教科书·音乐必修3 演奏.pdf",
+          "number": null,
+          "size": 20006246,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修3 演奏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE3%20%E6%BC%94%E5%A5%8F.png",
+        "width": 1400,
+        "height": 990
+      }
+    },
+    {
+      "id": "4-ea90c2a7b6d6",
+      "title": "普通高中教科书·音乐必修4 音乐编创",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修4 音乐编创.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修4 音乐编创.pdf",
+          "name": "普通高中教科书·音乐必修4 音乐编创.pdf",
+          "number": null,
+          "size": 18224110,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修4 音乐编创.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE4%20%E9%9F%B3%E4%B9%90%E7%BC%96%E5%88%9B.png",
+        "width": 1400,
+        "height": 991
+      }
+    },
+    {
+      "id": "5-3bd18905d564",
+      "title": "普通高中教科书·音乐必修5 音乐与舞蹈",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修5 音乐与舞蹈.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修5 音乐与舞蹈.pdf",
+          "name": "普通高中教科书·音乐必修5 音乐与舞蹈.pdf",
+          "number": null,
+          "size": 5452980,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修5 音乐与舞蹈.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%88%9E%E8%B9%88.png",
+        "width": 1400,
+        "height": 996
+      }
+    },
+    {
+      "id": "6-6bf20bd4c5a6",
+      "title": "普通高中教科书·音乐必修6 音乐与戏剧",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+          "name": "普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+          "number": null,
+          "size": 17775882,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐必修6 音乐与戏剧.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E5%BF%85%E4%BF%AE6%20%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7.png",
+        "width": 1400,
+        "height": 997
+      }
+    },
+    {
+      "id": "1-b731f495f0c6",
+      "title": "普通高中教科书·音乐选择性必修1 合唱",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修1 合唱.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修1 合唱.pdf",
+          "name": "普通高中教科书·音乐选择性必修1 合唱.pdf",
+          "number": null,
+          "size": 5174863,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修1 合唱.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E5%90%88%E5%94%B1.png",
+        "width": 1400,
+        "height": 1001
+      }
+    },
+    {
+      "id": "2-4489fc8cfdac",
+      "title": "普通高中教科书·音乐选择性必修2 合奏",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修2 合奏.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修2 合奏.pdf",
+          "name": "普通高中教科书·音乐选择性必修2 合奏.pdf",
+          "number": null,
+          "size": 5207930,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修2 合奏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E5%90%88%E5%A5%8F.png",
+        "width": 1400,
+        "height": 995
+      }
+    },
+    {
+      "id": "3-d518c74e5916",
+      "title": "普通高中教科书·音乐选择性必修3 舞蹈表演",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+          "name": "普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+          "number": null,
+          "size": 3973707,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修3 舞蹈表演.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94.png",
+        "width": 1400,
+        "height": 1003
+      }
+    },
+    {
+      "id": "4-757490db9bc1",
+      "title": "普通高中教科书·音乐选择性必修4 戏剧表演",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修4 戏剧表演.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修4 戏剧表演.pdf",
+          "name": "普通高中教科书·音乐选择性必修4 戏剧表演.pdf",
+          "number": null,
+          "size": 5053501,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修4 戏剧表演.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94.png",
+        "width": 1400,
+        "height": 1002
+      }
+    },
+    {
+      "id": "5-570e5d5c7a38",
+      "title": "普通高中教科书·音乐选择性必修5 音乐基础理论",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+          "name": "普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+          "number": null,
+          "size": 4619238,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修5 音乐基础理论.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.png",
+        "width": 1400,
+        "height": 995
+      }
+    },
+    {
+      "id": "6-6939bd0b2b2d",
+      "title": "普通高中教科书·音乐选择性必修6 视唱练耳",
+      "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+      "directoryParts": [
+        "高中",
+        "音乐",
+        "粤教花城版-广东教育出版社、花城出版社"
+      ],
+      "stage": "高中",
+      "subject": "音乐",
+      "edition": "粤教花城版-广东教育出版社、花城出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+          "name": "普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+          "number": null,
+          "size": 7639534,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/音乐/粤教花城版-广东教育出版社、花城出版社/普通高中教科书·音乐选择性必修6 视唱练耳.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E9%9F%B3%E4%B9%90/%E7%B2%A4%E6%95%99%E8%8A%B1%E5%9F%8E%E7%89%88-%E5%B9%BF%E4%B8%9C%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E8%8A%B1%E5%9F%8E%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E9%9F%B3%E4%B9%90%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3.png",
+        "width": 1400,
+        "height": 995
+      }
+    }
+  ]
+}

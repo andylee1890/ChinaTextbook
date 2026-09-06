@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/化学",
+  "name": "化学",
+  "indexPath": "ChinaTextbook-index/posters/高中/化学/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/index.json",
+  "bookCount": 20,
+  "splitBookCount": 3,
+  "posterCount": 20,
+  "childCount": 4,
+  "children": [
+    {
+      "path": "高中/化学/人教版-人民教育出版社",
+      "name": "人教版-人民教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/化学/人教版-人民教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88-%E4%BA%BA%E6%B0%91%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 5,
+      "splitBookCount": 0,
+      "posterCount": 5,
+      "type": "directory"
+    },
+    {
+      "path": "高中/化学/沪科技版-上海科学技术出版社",
+      "name": "沪科技版-上海科学技术出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/化学/沪科技版-上海科学技术出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E6%B2%AA%E7%A7%91%E6%8A%80%E7%89%88-%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E6%B2%AA%E7%A7%91%E6%8A%80%E7%89%88-%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 5,
+      "splitBookCount": 3,
+      "posterCount": 5,
+      "type": "directory"
+    },
+    {
+      "path": "高中/化学/苏教版-江苏凤凰教育出版社",
+      "name": "苏教版-江苏凤凰教育出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/化学/苏教版-江苏凤凰教育出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88-%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E8%8B%8F%E6%95%99%E7%89%88-%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 5,
+      "splitBookCount": 0,
+      "posterCount": 5,
+      "type": "directory"
+    },
+    {
+      "path": "高中/化学/鲁科版-山东科学技术出版社",
+      "name": "鲁科版-山东科学技术出版社",
+      "indexPath": "ChinaTextbook-index/posters/高中/化学/鲁科版-山东科学技术出版社/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E9%B2%81%E7%A7%91%E7%89%88-%E5%B1%B1%E4%B8%9C%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E5%8C%96%E5%AD%A6/%E9%B2%81%E7%A7%91%E7%89%88-%E5%B1%B1%E4%B8%9C%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+      "bookCount": 5,
+      "splitBookCount": 0,
+      "posterCount": 5,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

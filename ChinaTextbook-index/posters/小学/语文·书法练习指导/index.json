@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/语文·书法练习指导",
+  "name": "语文·书法练习指导",
+  "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/index.json",
+  "bookCount": 88,
+  "splitBookCount": 2,
+  "posterCount": 88,
+  "childCount": 11,
+  "children": [
+    {
+      "path": "小学/语文·书法练习指导/人美版",
+      "name": "人美版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/人美版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E4%BA%BA%E7%BE%8E%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E4%BA%BA%E7%BE%8E%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/冀美版",
+      "name": "冀美版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/冀美版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E5%86%80%E7%BE%8E%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E5%86%80%E7%BE%8E%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/北师大版",
+      "name": "北师大版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/北师大版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/华文社版",
+      "name": "华文社版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/华文社版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E5%8D%8E%E6%96%87%E7%A4%BE%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E5%8D%8E%E6%96%87%E7%A4%BE%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/晋人版",
+      "name": "晋人版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/晋人版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%99%8B%E4%BA%BA%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%99%8B%E4%BA%BA%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/沪科教版",
+      "name": "沪科教版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/沪科教版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B2%AA%E7%A7%91%E6%95%99%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/湘美版",
+      "name": "湘美版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/湘美版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B9%98%E7%BE%8E%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E6%B9%98%E7%BE%8E%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/粤教版",
+      "name": "粤教版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/粤教版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E7%B2%A4%E6%95%99%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E7%B2%A4%E6%95%99%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 2,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/苏少版",
+      "name": "苏少版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/苏少版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E8%8B%8F%E5%B0%91%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E8%8B%8F%E5%B0%91%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/西泠印社版",
+      "name": "西泠印社版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/西泠印社版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E8%A5%BF%E6%B3%A0%E5%8D%B0%E7%A4%BE%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E8%A5%BF%E6%B3%A0%E5%8D%B0%E7%A4%BE%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    },
+    {
+      "path": "小学/语文·书法练习指导/青岛版",
+      "name": "青岛版",
+      "indexPath": "ChinaTextbook-index/posters/小学/语文·书法练习指导/青岛版/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E9%9D%92%E5%B2%9B%E7%89%88/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E8%AF%AD%E6%96%87%C2%B7%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC/%E9%9D%92%E5%B2%9B%E7%89%88/index.json",
+      "bookCount": 8,
+      "splitBookCount": 0,
+      "posterCount": 8,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "初中/地理/中图版（主编：王民）-中国地图出版社/八年级",
+  "name": "八年级",
+  "indexPath": "ChinaTextbook-index/posters/初中/地理/中图版（主编：王民）-中国地图出版社/八年级/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/index.json",
+  "bookCount": 2,
+  "splitBookCount": 0,
+  "posterCount": 2,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-a6f84e4039fc",
+      "title": "义务教育教科书·地理八年级上册（主编：王民）",
+      "path": "初中/地理/中图版（主编：王民）-中国地图出版社/八年级/义务教育教科书·地理八年级上册（主编：王民）.pdf",
+      "directoryParts": [
+        "初中",
+        "地理",
+        "中图版（主编：王民）-中国地图出版社",
+        "八年级"
+      ],
+      "stage": "初中",
+      "subject": "地理",
+      "edition": "中图版（主编：王民）-中国地图出版社",
+      "grade": "八年级",
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "初中/地理/中图版（主编：王民）-中国地图出版社/八年级/义务教育教科书·地理八年级上册（主编：王民）.pdf",
+          "name": "义务教育教科书·地理八年级上册（主编：王民）.pdf",
+          "number": null,
+          "size": 20742902,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/初中/地理/中图版（主编：王民）-中国地图出版社/八年级/义务教育教科书·地理八年级上册（主编：王民）.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.png",
+        "width": 985,
+        "height": 1400
+      }
+    },
+    {
+      "id": "book-962fd88db5e2",
+      "title": "义务教育教科书·地理八年级下册（主编：王民）",
+      "path": "初中/地理/中图版（主编：王民）-中国地图出版社/八年级/义务教育教科书·地理八年级下册（主编：王民）.pdf",
+      "directoryParts": [
+        "初中",
+        "地理",
+        "中图版（主编：王民）-中国地图出版社",
+        "八年级"
+      ],
+      "stage": "初中",
+      "subject": "地理",
+      "edition": "中图版（主编：王民）-中国地图出版社",
+      "grade": "八年级",
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "初中/地理/中图版（主编：王民）-中国地图出版社/八年级/义务教育教科书·地理八年级下册（主编：王民）.pdf",
+          "name": "义务教育教科书·地理八年级下册（主编：王民）.pdf",
+          "number": null,
+          "size": 23105744,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/初中/地理/中图版（主编：王民）-中国地图出版社/八年级/义务教育教科书·地理八年级下册（主编：王民）.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86/%E4%B8%AD%E5%9B%BE%E7%89%88%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E5%9C%B0%E7%90%86%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E7%8E%8B%E6%B0%91%EF%BC%89.png",
+        "width": 988,
+        "height": 1400
+      }
+    }
+  ]
+}

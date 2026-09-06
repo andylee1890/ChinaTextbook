@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "小学/体育与健康/科学社版",
+  "name": "科学社版",
+  "indexPath": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/index.json",
+  "bookCount": 6,
+  "splitBookCount": 0,
+  "posterCount": 6,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-5300f8e8a402",
+      "title": "义务教育教科书·体育与健康教师用书一年级全一册",
+      "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书一年级全一册.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "科学社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "科学社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书一年级全一册.pdf",
+          "name": "义务教育教科书·体育与健康教师用书一年级全一册.pdf",
+          "number": null,
+          "size": 39034054,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书一年级全一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 955
+      }
+    },
+    {
+      "id": "book-4fe1a6f23b6b",
+      "title": "义务教育教科书·体育与健康教师用书三年级全一册",
+      "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书三年级全一册.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "科学社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "科学社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书三年级全一册.pdf",
+          "name": "义务教育教科书·体育与健康教师用书三年级全一册.pdf",
+          "number": null,
+          "size": 8911696,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书三年级全一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 965
+      }
+    },
+    {
+      "id": "book-198245227e64",
+      "title": "义务教育教科书·体育与健康教师用书二年级全一册",
+      "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书二年级全一册.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "科学社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "科学社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书二年级全一册.pdf",
+          "name": "义务教育教科书·体育与健康教师用书二年级全一册.pdf",
+          "number": null,
+          "size": 33582189,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书二年级全一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 960
+      }
+    },
+    {
+      "id": "book-b859841ccd1f",
+      "title": "义务教育教科书·体育与健康教师用书五年级全一册",
+      "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书五年级全一册.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "科学社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "科学社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书五年级全一册.pdf",
+          "name": "义务教育教科书·体育与健康教师用书五年级全一册.pdf",
+          "number": null,
+          "size": 9367659,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书五年级全一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 963
+      }
+    },
+    {
+      "id": "book-3192ae8e0220",
+      "title": "义务教育教科书·体育与健康教师用书六年级全一册",
+      "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书六年级全一册.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "科学社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "科学社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书六年级全一册.pdf",
+          "name": "义务教育教科书·体育与健康教师用书六年级全一册.pdf",
+          "number": null,
+          "size": 10751248,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书六年级全一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 963
+      }
+    },
+    {
+      "id": "book-338acde9427a",
+      "title": "义务教育教科书·体育与健康教师用书四年级全一册",
+      "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书四年级全一册.pdf",
+      "directoryParts": [
+        "小学",
+        "体育与健康",
+        "科学社版"
+      ],
+      "stage": "小学",
+      "subject": "体育与健康",
+      "edition": "科学社版",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书四年级全一册.pdf",
+          "name": "义务教育教科书·体育与健康教师用书四年级全一册.pdf",
+          "number": null,
+          "size": 25723471,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/小学/体育与健康/科学社版/义务教育教科书·体育与健康教师用书四年级全一册.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%B0%8F%E5%AD%A6/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7/%E7%A7%91%E5%AD%A6%E7%A4%BE%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%95%99%E5%B8%88%E7%94%A8%E4%B9%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%85%A8%E4%B8%80%E5%86%8C.png",
+        "width": 1400,
+        "height": 965
+      }
+    }
+  ]
+}

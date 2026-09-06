@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "高中/美术/湘美版-湖南美术出版社",
+  "name": "湘美版-湖南美术出版社",
+  "indexPath": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 7,
+  "splitBookCount": 0,
+  "posterCount": 7,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-8f44b922a98b",
+      "title": "普通高中教科书·美术必修 美术鉴赏",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术必修 美术鉴赏.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术必修 美术鉴赏.pdf",
+          "name": "普通高中教科书·美术必修 美术鉴赏.pdf",
+          "number": null,
+          "size": 31925793,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%BF%85%E4%BF%AE%20%E7%BE%8E%E6%9C%AF%E9%89%B4%E8%B5%8F.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%BF%85%E4%BF%AE%20%E7%BE%8E%E6%9C%AF%E9%89%B4%E8%B5%8F.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术必修 美术鉴赏.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%BF%85%E4%BF%AE%20%E7%BE%8E%E6%9C%AF%E9%89%B4%E8%B5%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E5%BF%85%E4%BF%AE%20%E7%BE%8E%E6%9C%AF%E9%89%B4%E8%B5%8F.png",
+        "width": 1400,
+        "height": 976
+      }
+    },
+    {
+      "id": "1-21c6473f165f",
+      "title": "普通高中教科书·美术选择性必修1 绘画",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修1 绘画.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修1 绘画.pdf",
+          "name": "普通高中教科书·美术选择性必修1 绘画.pdf",
+          "number": null,
+          "size": 12829833,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%BB%98%E7%94%BB.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%BB%98%E7%94%BB.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修1 绘画.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%BB%98%E7%94%BB.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE1%20%E7%BB%98%E7%94%BB.png",
+        "width": 1400,
+        "height": 985
+      }
+    },
+    {
+      "id": "2-4fb5a0c5bcfa",
+      "title": "普通高中教科书·美术选择性必修2 中国书画",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修2 中国书画.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修2 中国书画.pdf",
+          "name": "普通高中教科书·美术选择性必修2 中国书画.pdf",
+          "number": null,
+          "size": 14217208,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E4%B8%AD%E5%9B%BD%E4%B9%A6%E7%94%BB.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E4%B8%AD%E5%9B%BD%E4%B9%A6%E7%94%BB.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修2 中国书画.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E4%B8%AD%E5%9B%BD%E4%B9%A6%E7%94%BB.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE2%20%E4%B8%AD%E5%9B%BD%E4%B9%A6%E7%94%BB.png",
+        "width": 1400,
+        "height": 984
+      }
+    },
+    {
+      "id": "3-010bfe628e2b",
+      "title": "普通高中教科书·美术选择性必修3 雕塑",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修3 雕塑.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修3 雕塑.pdf",
+          "name": "普通高中教科书·美术选择性必修3 雕塑.pdf",
+          "number": null,
+          "size": 7100317,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E9%9B%95%E5%A1%91.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E9%9B%95%E5%A1%91.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修3 雕塑.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E9%9B%95%E5%A1%91.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE3%20%E9%9B%95%E5%A1%91.png",
+        "width": 1400,
+        "height": 988
+      }
+    },
+    {
+      "id": "4-36c39c1b570f",
+      "title": "普通高中教科书·美术选择性必修4 设计",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修4 设计.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修4 设计.pdf",
+          "name": "普通高中教科书·美术选择性必修4 设计.pdf",
+          "number": null,
+          "size": 9696561,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E8%AE%BE%E8%AE%A1.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E8%AE%BE%E8%AE%A1.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修4 设计.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E8%AE%BE%E8%AE%A1.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE4%20%E8%AE%BE%E8%AE%A1.png",
+        "width": 1400,
+        "height": 987
+      }
+    },
+    {
+      "id": "5-b76999ec5294",
+      "title": "普通高中教科书·美术选择性必修5 工艺",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修5 工艺.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修5 工艺.pdf",
+          "name": "普通高中教科书·美术选择性必修5 工艺.pdf",
+          "number": null,
+          "size": 8761562,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E5%B7%A5%E8%89%BA.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E5%B7%A5%E8%89%BA.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修5 工艺.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E5%B7%A5%E8%89%BA.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE5%20%E5%B7%A5%E8%89%BA.png",
+        "width": 1400,
+        "height": 987
+      }
+    },
+    {
+      "id": "6-e75b4cf9fd71",
+      "title": "普通高中教科书·美术选择性必修6 现代媒体艺术",
+      "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修6 现代媒体艺术.pdf",
+      "directoryParts": [
+        "高中",
+        "美术",
+        "湘美版-湖南美术出版社"
+      ],
+      "stage": "高中",
+      "subject": "美术",
+      "edition": "湘美版-湖南美术出版社",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修6 现代媒体艺术.pdf",
+          "name": "普通高中教科书·美术选择性必修6 现代媒体艺术.pdf",
+          "number": null,
+          "size": 11896829,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E7%8E%B0%E4%BB%A3%E5%AA%92%E4%BD%93%E8%89%BA%E6%9C%AF.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E7%8E%B0%E4%BB%A3%E5%AA%92%E4%BD%93%E8%89%BA%E6%9C%AF.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/高中/美术/湘美版-湖南美术出版社/普通高中教科书·美术选择性必修6 现代媒体艺术.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E7%8E%B0%E4%BB%A3%E5%AA%92%E4%BD%93%E8%89%BA%E6%9C%AF.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E9%AB%98%E4%B8%AD/%E7%BE%8E%E6%9C%AF/%E6%B9%98%E7%BE%8E%E7%89%88-%E6%B9%96%E5%8D%97%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E7%BE%8E%E6%9C%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE6%20%E7%8E%B0%E4%BB%A3%E5%AA%92%E4%BD%93%E8%89%BA%E6%9C%AF.png",
+        "width": 1400,
+        "height": 985
+      }
+    }
+  ]
+}

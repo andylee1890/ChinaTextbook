@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题",
+  "name": "初中数学浙江中考数学真题",
+  "indexPath": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/index.json",
+  "bookCount": 2,
+  "splitBookCount": 0,
+  "posterCount": 2,
+  "childCount": 0,
+  "children": [],
+  "books": [
+    {
+      "id": "book-a67a0f38ff40",
+      "title": "初中数学浙江中考数学真题",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/初中数学浙江中考数学真题.pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "初中数学浙江中考数学真题"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "初中数学浙江中考数学真题",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/初中数学浙江中考数学真题.pdf",
+          "name": "初中数学浙江中考数学真题.pdf",
+          "number": null,
+          "size": 1669356,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/初中数学浙江中考数学真题.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98.png",
+        "width": 990,
+        "height": 1400
+      }
+    },
+    {
+      "id": "_-5644877885cc",
+      "title": "初中数学浙江中考数学真题_答案",
+      "path": "学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/初中数学浙江中考数学真题_答案.pdf",
+      "directoryParts": [
+        "学数学最重要的刷习题在这里",
+        "初中练习题_带答案",
+        "初中数学浙江中考数学真题"
+      ],
+      "stage": "学数学最重要的刷习题在这里",
+      "subject": "初中练习题_带答案",
+      "edition": "初中数学浙江中考数学真题",
+      "grade": null,
+      "isSplit": false,
+      "mergeRequired": false,
+      "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+      "parts": [
+        {
+          "path": "学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/初中数学浙江中考数学真题_答案.pdf",
+          "name": "初中数学浙江中考数学真题_答案.pdf",
+          "number": null,
+          "size": 4544485,
+          "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98_%E7%AD%94%E6%A1%88.pdf",
+          "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98_%E7%AD%94%E6%A1%88.pdf"
+        }
+      ],
+      "poster": {
+        "path": "ChinaTextbook-index/posters/学数学最重要的刷习题在这里/初中练习题_带答案/初中数学浙江中考数学真题/初中数学浙江中考数学真题_答案.png",
+        "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98_%E7%AD%94%E6%A1%88.png",
+        "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%AD%A6%E6%95%B0%E5%AD%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%88%B7%E4%B9%A0%E9%A2%98%E5%9C%A8%E8%BF%99%E9%87%8C/%E5%88%9D%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98_%E5%B8%A6%E7%AD%94%E6%A1%88/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%B5%99%E6%B1%9F%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E7%9C%9F%E9%A2%98_%E7%AD%94%E6%A1%88.png",
+        "width": 990,
+        "height": 1400
+      }
+    }
+  ]
+}

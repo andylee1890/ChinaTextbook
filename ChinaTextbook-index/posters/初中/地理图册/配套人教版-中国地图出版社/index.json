@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "type": "directory-index",
+  "generatedAt": "2026-09-06T09:47:33.418256Z",
+  "repository": "andylee1890/ChinaTextbook",
+  "branch": "master",
+  "sourceRepository": "https://github.com/TapXWorld/ChinaTextbook",
+  "sourceFork": "https://github.com/andylee1890/ChinaTextbook",
+  "mergeTool": "https://github.com/TapXWorld/ChinaTextbook-tools/releases",
+  "path": "初中/地理图册/配套人教版-中国地图出版社",
+  "name": "配套人教版-中国地图出版社",
+  "indexPath": "ChinaTextbook-index/posters/初中/地理图册/配套人教版-中国地图出版社/index.json",
+  "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86%E5%9B%BE%E5%86%8C/%E9%85%8D%E5%A5%97%E4%BA%BA%E6%95%99%E7%89%88-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86%E5%9B%BE%E5%86%8C/%E9%85%8D%E5%A5%97%E4%BA%BA%E6%95%99%E7%89%88-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/index.json",
+  "bookCount": 4,
+  "splitBookCount": 0,
+  "posterCount": 4,
+  "childCount": 2,
+  "children": [
+    {
+      "path": "初中/地理图册/配套人教版-中国地图出版社/七年级",
+      "name": "七年级",
+      "indexPath": "ChinaTextbook-index/posters/初中/地理图册/配套人教版-中国地图出版社/七年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86%E5%9B%BE%E5%86%8C/%E9%85%8D%E5%A5%97%E4%BA%BA%E6%95%99%E7%89%88-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86%E5%9B%BE%E5%86%8C/%E9%85%8D%E5%A5%97%E4%BA%BA%E6%95%99%E7%89%88-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 2,
+      "splitBookCount": 0,
+      "posterCount": 2,
+      "type": "directory"
+    },
+    {
+      "path": "初中/地理图册/配套人教版-中国地图出版社/八年级",
+      "name": "八年级",
+      "indexPath": "ChinaTextbook-index/posters/初中/地理图册/配套人教版-中国地图出版社/八年级/index.json",
+      "githubUrl": "https://github.com/andylee1890/ChinaTextbook/blob/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86%E5%9B%BE%E5%86%8C/%E9%85%8D%E5%A5%97%E4%BA%BA%E6%95%99%E7%89%88-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/andylee1890/ChinaTextbook/master/ChinaTextbook-index/posters/%E5%88%9D%E4%B8%AD/%E5%9C%B0%E7%90%86%E5%9B%BE%E5%86%8C/%E9%85%8D%E5%A5%97%E4%BA%BA%E6%95%99%E7%89%88-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/index.json",
+      "bookCount": 2,
+      "splitBookCount": 0,
+      "posterCount": 2,
+      "type": "directory"
+    }
+  ],
+  "books": []
+}
